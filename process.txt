@@ -1,0 +1,4 @@
+Team:
+* Download Excel workbook from https://www.basketball-reference.com/teams/.
+* In Excel, delete all franchises that are not active, then delete all coloumns except G, W, L, W/L, & Champ.
+* No script necessary. It is more tedious to write the script than to use Excel for this entity.
