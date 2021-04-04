@@ -1,0 +1,4 @@
+Marc Helou - mhelou1
+Kevin Velasquez - kvelasq1
+
+The way that player statistics are structured on basketball-reference.com makes it difficult to download and combine all player info into one text file. We must use a script / API in order to facilitate downloading all player statistics to one file.
