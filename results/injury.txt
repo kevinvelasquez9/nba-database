@@ -1,0 +1,108 @@
+PLAYER	TEAM	DATE	DESCRIPTION	STATUS	INJURY
+John Collins	ATL	2021-04-01	The Hawks announced that Collins will miss at least one week.	Out	Ankle
+Kris Dunn	ATL	2021-03-18	The Hawks announced that Dunn returned to practice yesterday and his status will be updated on the team's upcoming road trip.	Out	Ankle
+De'Andre Hunter	ATL	2021-03-31	Hunter is listed as QUESTIONABLE for Thursday's (Apr. 1) game.	Day To Day	Knee
+Cam Reddish	ATL	2021-03-15	Reddish will miss at least 4-6 more weeks, according to Shams Charania of The Athletic.	Out	Achilles
+Romeo Langford	BOS	2021-04-01	Langford did not play in Wednesday's (Mar. 31) game against Dallas.	Day To Day	Health and Safety Protocols
+Semi Ojeleye	BOS	2021-03-27	Celtics coach Brad Stevens said Ojeleye will miss at least 10 days.	Out	Side
+Tristan Thompson	BOS	2021-04-01	Thompson did not play in Wednesday's (Mar. 31) game.	Day To Day	Health and Safety Protocols
+Robert Williams	BOS	2021-04-01	Williams did not play in Wednesday's (Mar. 31) game.	Day To Day	Illness
+Spencer Dinwiddie	BRK	2021-01-19	Dinwiddie had a ACL reconstruction of his right knee, according to Brian Lewis of the New York Post. He will miss the rest of the season.	Out For Season	ACL
+Kevin Durant	BRK	2021-03-28	Nets coach Steve Nash said he doesn't expect Durant to play this week.	Out	Hamstring
+Blake Griffin	BRK	2021-04-01	Griffin is out for Thursday's (Apr. 1) game against Charlotte.	Out	Rest
+James Harden	BRK	2021-04-01	Harden is out for Thursday's (Apr. 1) game against Charlotte.	Out	Hamstring
+LaMelo Ball	CHO	2021-03-24	Ball had surgery on his fractured wrist and will be re-evaluated in four weeks, according to Shams Charania of The Athletic.	Out	Wrist
+Malik Monk	CHO	2021-03-31	Monk is probable for Thursday's (Apr. 1) game against Brooklyn.	Day To Day	Foot
+Zach LaVine	CHI	2021-04-01	LaVine did not play in Wednesday's (Mar. 31) game.	Day To Day	Ankle
+Garrett Temple	CHI	2021-04-01	Temple did not play in Wednesday's (Mar. 31) game.	Day To Day	Hamstring
+Coby White	CHI	2021-04-01	White did not play in Wednesday's (Mar. 31) game.	Day To Day	Neck
+Jarrett Allen	CLE	2021-03-31	Allen is listed as OUT for Thursday's (Apr. 1) game.	Out	Concussion
+Matthew Dellavedova	CLE	2021-03-31	Dellavedova is listed as QUESTIONABLE for Thursday's (Apr. 1) game.	Day To Day	Abdominal/Appendicitis
+Larry Nance	CLE	2021-03-31	Nance is listed as OUT for Thursday's (Apr. 1) game.	Out	Illness
+Dylan Windler	CLE	2021-03-31	Windler is listed as DOUBTFUL for Thursday's (Apr. 1) game.	Day To Day	Knee
+Willie Cauley-Stein	DAL	2021-04-01	Cauley-Stein did not play in Wednesday's game (Mar. 31) against the Celtics.	Day To Day	Health and Safety Protocols
+J.J. Redick	DAL	2021-03-11	Redick underwent a non-surgical procedure and will be re-examined in about a week.	Out	Heel
+Tyrell Terry	DAL	2021-04-01	Terry did not play in Wednesday's game (Mar. 31) against the Celtics.	Day To Day	Personal
+Monte Morris	DEN	2021-03-31	Morris is listed as OUT for Thursday's (Apr. 1) game.	Out	Quad
+Hamidou Diallo	DET	2021-04-01	Diallo is out for Thursday's (Apr. 1) game against Washington.	Out	Rest
+Sekou Doumbouya	DET	2021-04-01	Doumbouya is probable for Thursday's (Apr. 1) game against Washington.	Day To Day	Migraine
+Wayne Ellington	DET	2021-04-01	Ellington is questionable for Thursday's (Apr. 1) game against Washington.	Day To Day	Calf
+Killian Hayes	DET	2021-03-16	The Pistons announced that Hayes has been cleared for on-court basketball activities and will gradually return to full-contact practice. He will be re-evaluated in three weeks.	Out	Hip
+Rodney McGruder	DET	2021-04-01	McGruder is out for Thursday's (Apr. 1) game against Washington.	Out	Elbow
+Jahlil Okafor	DET	2021-03-21	Detroit coach Dwane Casey said there's no timetable for Okafor's return.	Out	Knee
+Dennis Smith	DET	2021-04-01	Smith Jr. is questionable for Thursday's (Apr. 1) game against Washington.	Day To Day	Spine
+Eric Paschall	GSW	2021-03-31	Paschall is out for Thursday's (Apr. 1) game against Miami.	Out	Wrist
+Klay Thompson	GSW	2021-02-26	Thompson's recovery from a torn right Achilles tendon is right on schedule, according to Connor Letourneau of the San Francisco Chronicle. He's out of a walking boot and starting mobility exercises.	Out For Season	Right Achilles
+Dante Exum	HOU	2021-03-05	Exum is still in a walking boot and no timetable has been announced for when he might return, according to Ben DuBose of USA Today.	Out	Calf
+Eric Gordon	HOU	2021-03-12	Gordon is dealing with a moderate groin strain and is expected to miss 4-6 weeks, according to Adrian Wojnarowski of ESPN.	Out	Groin
+David Nwaba	HOU	2021-04-01	Nwaba did not play in Wednesday's (Mar. 31) game against Brooklyn.	Day To Day	Wrist
+John Wall	HOU	2021-04-01	Wall did not play in Wednesday's (Mar. 31) game.	Day To Day	Knee
+Jeremy Lamb	IND	2021-04-01	Lamb did not play in Wednesday's (Mar. 31) game.	Day To Day	Toe
+T.J. Warren	IND	2021-03-25	Warren underwent foot surgery and will miss the rest of the season, according to Scott Agness of the Fieldhouse Files.	Out For Season	Foot
+Patrick Beverley	LAC	2021-03-31	Beverley is listed as OUT for Thursday's (Apr. 1) game.	Out	Knee
+Paul George	LAC	2021-03-31	George is listed as OUT for Thursday's (Apr. 1) game.	Out	Foot
+Serge Ibaka	LAC	2021-03-31	Ibaka is listed as OUT for Thursday's (Apr. 1) game.	Out	Back
+Marcus Morris	LAC	2021-03-31	Morris Sr. is questionable for Thursday's (Apr. 1) game against Denver.	Day To Day	Calf
+Rajon Rondo	LAC	2021-03-31	Rondo is out for Thursday's (Apr. 1) game against Denver.	Out	Adductor
+Anthony Davis	LAL	2021-03-13	Davis will be out at least two more weeks, according to Dave McMenamin of ESPN.	Out	Achilles
+Jared Dudley	LAL	2021-03-14	The Lakers announced that Dudley has been diagnosed with a torn MCL.	Out	Knee
+LeBron James	LAL	2021-03-25	James is expected to miss 3-5 more weeks, according to Shams Charania of The Athletic.	Out	Ankle
+Grayson Allen	MEM	2021-04-01	Allen did not play in Wednesday's (Mar. 31) game.	Day To Day	Hip
+Brandon Clarke	MEM	2021-04-01	Clarke did not play in Wednesday's (Mar. 31) game.	Day To Day	Personal
+Jaren Jackson	MEM	2021-03-11	Jackson Jr. is expected to miss a few more weeks, according to Evan Barnes of The Commercial Appeal.	Out	Knee
+Justise Winslow	MEM	2021-04-01	Winslow did not play in Wednesday's (Mar. 31) game.	Day To Day	Thigh
+Goran DragiÄ‡	MIA	2021-04-01	Dragic is out for Thursday's (Apr. 1) game against Golden State.	Out	Undisclsoed
+Kendrick Nunn	MIA	2021-04-01	Nunn is questionable for Thursday's (Apr. 1) game against Golden State.	Day To Day	Ankle
+KZ Okpala	MIA	2021-04-01	Okpala is out for Thursday's (Apr. 1) game against Golden State.	Out	Health and Safety Protocols
+Rodions Kurucs	MIL	2021-04-01	Kurucs did not play in Wednesday's (Mar. 31) game.	Day To Day	Abdominal
+Bobby Portis	MIL	2021-04-01	Portis did not play in Wednesday's (Mar. 31) game.	Day To Day	Health and Safety Protocols
+P.J. Tucker	MIL	2021-04-01	Tucker did not play in Wednesday's (Mar. 31) game.	Day To Day	Calf
+Josh Okogie	MIN	2021-04-01	Okogie did not play in Wednesday's (Mar. 31) game against New York.	Day To Day	Health and Safety Protocols
+D'Angelo Russell	MIN	2021-03-24	Russell is working out with the team and is working on his fitness level. He's hoping to get into team activities this weekend or some time next week, according to Jon Krawczynski of The Athletic.	Out	Leg
+Lonzo Ball	NOP	2021-04-01	Ball is out for Thursday's (Apr. 1) game against Orlando.	Out	Hip
+Brandon Ingram	NOP	2021-04-01	Ingram is doubtful for Thursday's (Apr. 1) game against Orlando.	Day To Day	Foot
+Zion Williamson	NOP	2021-04-01	Williamson is out for Thursday's (Apr. 1) game against Orlando.	Out	Thumb
+RJ Barrett	NYK	2021-04-01	Barrett is questionable for Friday's (Apr. 2) game against Dallas.	Day To Day	Ankle
+Mitchell Robinson	NYK	2021-03-28	The Knicks announced that Robinson suffered a fractured foot and is out indefinitely.	Out	Ankle
+Derrick Rose	NYK	2021-04-01	Rose is questionable for Friday's (Apr. 2) game against Dallas.	Day To Day	Ankle
+Darius Bazley	OKC	2021-04-01	Bazley did not play in Wednesday's (Mar. 31) game against Toronto.	Day To Day	Shoulder
+Luguentz Dort	OKC	2021-04-01	Dort did not play in Wednesday's (Mar. 31) game against Toronto.	Day To Day	Concussion protocol
+Shai Gilgeous-Alexander	OKC	2021-04-01	Gilgeous-Alexander did not play in Wednesday's (Mar. 31) game against Toronto.	Day To Day	Foot
+Ty Jerome	OKC	2021-04-01	Jerome did not play in Wednesday's (Mar. 31) game against Toronto.	Day To Day	Ankle
+Mike Muscala	OKC	2021-04-01	Muscala did not play in Wednesday's (Mar. 31) game against Toronto.	Day To Day	Ankle
+Aleksej Pokusevski	OKC	2021-04-01	Pokusevski did not play in Wednesday's (Mar. 31) game against Toronto.	Day To Day	Health protocols
+Cole Anthony	ORL	2021-03-17	Anthony doesn't appear close to returning to game action, according to Josh Robbins of The Athletic.	Out	Rib
+Markelle Fultz	ORL	2021-01-06	Fultz will miss the rest of the season with a torn ACL in his left knee, according to Adrian Wojnarowski.	Out For Season	Knee
+Gary Harris	ORL	2021-03-25	Harris is out for the foreseeable future. Harris has been out since mid-February with a left thigh strain.	Out	Thigh
+Jonathan Isaac	ORL	2021-03-05	Isaac is making progress with his rehab. He's started to ramp up his on-court work, according to Roy Parry of the Orlando Sentinel. He's not slated to return this season, but should be ready to go for the 2021-2022 season.	Out For Season	Knee
+Karim ManÃ©	ORL	2021-04-01	Mane is out for Thursday's (Apr. 1) game against New Orleans.	Out	Hamstring
+Ignas Brazdeikis	PHI	2021-03-31	Brazdeikis is out for Thursday's (Apr. 1) game against Cleveland.	Out	Coach's Decision
+Joel Embiid	PHI	2021-03-13	The 76ers announced that Embiid will be re-evaluated in two weeks.	Out	Knee
+George Hill	PHI	2021-03-31	Hill is out for Thursday's (Apr. 1) game against Cleveland.	Out	Thumb
+Mason Jones	PHI	2021-03-31	Jones is out for Thursday's (Apr. 1) game against Cleveland.	Out	Coach's Decision
+Frank Kaminsky	PHO	2021-04-01	Kaminsky did not play in Wednesday's (Mar. 31) game.	Day To Day	Health Protocols
+Abdel Nader	PHO	2021-04-01	Nader did not play in Wednesday's (Mar. 31) game.	Day To Day	Knee
+Zach Collins	POR	2021-03-05	Collins is rehabbing after having surgery to repair a stress fracture in his ankle, according to a report from NBC Sports Northwest. If everything goes to plan, there's a chance he could return in time for the playoffs.	Out	Ankle
+Nassir Little	POR	2021-04-01	Little did not play in Wednesday's (Mar. 31) game.	Day To Day	Thumb
+Marvin Bagley	SAC	2021-03-18	The Kings announced Bagley will not require surgery, but will be re-evaluated in approximately four weeks.	Out	Hand
+Jahmi'us Ramsey	SAC	2021-04-01	Ramsey did not play in Wednesday's (Mar. 31) game against San Antonio.	Day To Day	Hamstring
+Hassan Whiteside	SAC	2021-04-01	Whiteside did not play in Wednesday's (Mar. 31) game.	Day To Day	Knee
+Keita Bates-Diop	SAS	2021-04-01	Bates-Diop is listed as OUT for Thursday's (Apr. 1) game.	Out	Hamstring
+Gorgui Dieng	SAS	2021-04-01	Dieng is listed as OUT for Thursday's (Apr. 1) game.	Out	Shoulder
+Trey Lyles	SAS	2021-04-01	Lyles is listed as OUT for Thursday's (Apr. 1) game.	Out	Ankle
+Lonnie Walker	SAS	2021-04-01	Walker IV is listed as OUT for Thursday's (Apr. 1) game.	Out	Wrist
+DeAndre' Bembry	TOR	2021-04-01	Bembry did not play in Wednesday's game (Mar. 31) against the Thunder.	Day To Day	Health and Safety Protocols
+Jalen Harris	TOR	2021-04-01	Harris did not play in Wednesday's game (Mar. 31) against the Thunder.	Day To Day	Hip
+Rodney Hood	TOR	2021-03-31	Hood left Wednesday's (Mar. 31) game and did not return.	Day To Day	Hip
+Kyle Lowry	TOR	2021-04-01	Lowry did not play in Wednesday's (Mar. 31) game against Oklahoma City.	Day To Day	Foot
+Patrick McCaw	TOR	2021-04-01	McCaw did not play in Wednesday's game (Mar. 31) against the Thunder.	Day To Day	Knee
+Paul Watson	TOR	2021-04-01	Watson did not play in Wednesday's game (Mar. 31) against the Thunder.	Day To Day	Health and Safety Protocols
+Udoka Azubuike	UTA	2021-02-12	Azubuike is out indefinitely with a severe right ankle sprain, according to Sarah Todd of The Deseret News.	Out	Ankle
+Donovan Mitchell	UTA	2021-04-01	Mitchell did not play in Wednesday's (Mar. 31) game.	Day To Day	Personal
+Juwan Morgan	UTA	2021-04-01	Morgan did not play in Wednesday's (Mar. 31) game.	Day To Day	Calf
+Bradley Beal	WAS	2021-03-31	Beal is listed as QUESTIONABLE for Thursday's (Apr. 1) game.	Day To Day	Hip
+DÄvis BertÄns	WAS	2021-03-31	Bertans is out for Thursday's (Apr. 1) game against Detroit.	Out	Calf
+Thomas Bryant	WAS	2021-02-02	The Wizards announced that Bryant had surgery to repair his left ACL. He's not expected to play again this season.	Out For Season	Left knee
+Daniel Gafford	WAS	2021-03-30	Gafford has a right ankle sprain and will be reevaluated in 10 days.	Out	Ankle
+Raul Neto	WAS	2021-03-31	Neto is listed as QUESTIONABLE for Thursday's (Apr. 1) game.	Day To Day	Rib
+Ish Smith	WAS	2021-02-17	The Wizards announced that Smith will miss the next 6-8 weeks with a right proximal quadriceps injury.	Out	Quad
