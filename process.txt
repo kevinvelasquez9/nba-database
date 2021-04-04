@@ -9,7 +9,12 @@ Buzzerbeater:
 * In Excel, replace all (?) with nothing in player name.
 * No script necessary. It is more tedious to write the script than to use Excel for this entity.
 
-Contract:
-* Download Excel workbook from https://www.basketball-reference.com/contracts/players.html.
+Award:
+* Download Excel workbook from https://https://www.basketball-reference.com/leagues/.
 * In Excel, delete all columns not in ER diagram.
+* In Excel, replace all (?) with nothing in player name.
 * No script necessary. It is more tedious to write the script than to use Excel for this entity.
+
+Injury:
+* Use this API to get all injury reports: https://github.com/vishaalagartha/basketball_reference_scraper/blob/master/API.md.
+* This API splits the data in a more useable way than straight off of the website.
