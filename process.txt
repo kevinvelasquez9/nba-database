@@ -8,3 +8,8 @@ Buzzerbeater:
 * In Excel, delete all columns not in ER diagram.
 * In Excel, replace all (?) with nothing in player name.
 * No script necessary. It is more tedious to write the script than to use Excel for this entity.
+
+Contract:
+* Download Excel workbook from https://www.basketball-reference.com/contracts/players.html.
+* In Excel, delete all columns not in ER diagram.
+* No script necessary. It is more tedious to write the script than to use Excel for this entity.
