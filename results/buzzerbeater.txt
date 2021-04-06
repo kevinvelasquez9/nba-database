@@ -1,4 +1,4 @@
-Player	Game	Team	Opp	Assisted	Distance																		
+playerName	date	winningTeam	opposingTeam	assistedPlayerName	distance																		
 Harrison Barnes	Mar 27 2021	SAC	CLE	D. Fox	26 ft																		
 Tony Snell	Mar 11 2021	ATL	TOR	T. Young	25																		
 Luguentz Dort	Feb 24 2021	OKC	SAS	A. Horford	23																		
