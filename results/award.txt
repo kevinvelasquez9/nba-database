@@ -45,11 +45,8 @@ season  champion  mvp rookieOfTheYear mostPoints  mostRebounds  mostAssists
 1978	WAS	B. Walton	W. Davis	G. Gervin	T. Robinson	K. Porter
 1977	POR	K. Abdul-Jabbar	A. Dantley	P. Maravich	K. Abdul-Jabbar	D. Buse
 1976	BOS	K. Abdul-Jabbar	A. Adams	B. McAdoo	K. Abdul-Jabbar	S. Watts
-1976	NYN	J. Erving	D. Thompson	J. Erving	A. Gilmore	D. Buse
 1975	GSW	B. McAdoo	J. Wilkes	B. McAdoo	B. McAdoo	K. Porter
-1975	Kentucky Colonels	"J. Erving,ÊG. McGinnis"	M. Barnes	G. McGinnis	A. Gilmore	C. Williams
 1974	BOS	K. Abdul-Jabbar	E. DiGregorio	B. McAdoo	E. Hayes	E. DiGregorio
-1974	NYN	J. Erving	S. Nater	J. Erving	A. Gilmore	A. Smith
 1973	NYK	D. Cowens	B. McAdoo	T. Archibald	W. Chamberlain	T. Archibald
 1972	LAL	K. Abdul-Jabbar	S. Wicks	K. Abdul-Jabbar	W. Chamberlain	L. Wilkens
 1971	MIL	K. Abdul-Jabbar	"D. Cowens,ÊG. Petrie"	K. Abdul-Jabbar	W. Chamberlain	N. Van Lier
