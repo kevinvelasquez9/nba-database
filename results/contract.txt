@@ -1,4 +1,4 @@
-Player	Tm	2020-21								
+playerName	franchiseName	salary								
 Stephen Curry	GSW	"$43,006,362 "								
 Russell Westbrook	WAS	"$41,358,814 "								
 Chris Paul	PHO	"$41,358,814 "								
