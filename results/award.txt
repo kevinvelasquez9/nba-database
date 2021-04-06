@@ -1,85 +1,79 @@
-SEASON	CHAMPION	MVP	ROTY	POINTS	REBOUNDS	ASSISTS
-2020-21				D. Lillard	R. Gobert	J. Harden
-2019-20	Los Angeles Lakers	G. Antetokounmpo	J. Morant	J. Harden	R. Gobert	L. James
-2018-19	Toronto Raptors	G. Antetokounmpo	L. Don_i_	J. Harden	A. Drummond	R. Westbrook
-2017-18	Golden State Warriors	J. Harden	B. Simmons	L. James	A. Drummond	R. Westbrook
-2016-17	Golden State Warriors	R. Westbrook	M. Brogdon	R. Westbrook	A. Drummond	J. Harden
-2015-16	Cleveland Cavaliers	S. Curry	K. Towns	J. Harden	A. Drummond	R. Rondo
-2014-15	Golden State Warriors	S. Curry	A. Wiggins	J. Harden	D. Jordan	C. Paul
-2013-14	San Antonio Spurs	K. Durant	M. Carter-Williams	K. Durant	D. Jordan	J. Wall
-2012-13	Miami Heat	L. James	D. Lillard	K. Durant	…. A_õk	G. V‡squez
-2011-12	Miami Heat	L. James	K. Irving	K. Durant	D. Howard	S. Nash
-2010-11	Dallas Mavericks	D. Rose	B. Griffin	K. Durant	K. Love	S. Nash
-2009-10	Los Angeles Lakers	L. James	T. Evans	K. Durant	D. Howard	S. Nash
-2008-09	Los Angeles Lakers	L. James	D. Rose	D. Wade	D. Howard	C. Paul
-2007-08	Boston Celtics	K. Bryant	K. Durant	K. Bryant	D. Howard	C. Paul
-2006-07	San Antonio Spurs	D. Nowitzki	B. Roy	K. Bryant	D. Howard	S. Nash
-2005-06	Miami Heat	S. Nash	C. Paul	K. Bryant	D. Howard	S. Nash
-2004-05	San Antonio Spurs	S. Nash	E. Okafor	A. Iverson	K. Garnett	S. Nash
-2003-04	Detroit Pistons	K. Garnett	L. James	K. Garnett	K. Garnett	S. Marbury
-2002-03	San Antonio Spurs	T. Duncan	A. Stoudemire	K. Bryant	B. Wallace	J. Kidd
-2001-02	Los Angeles Lakers	T. Duncan	P. Gasol	P. Pierce	T. Duncan	A. Miller
-2000-01	Los Angeles Lakers	A. Iverson	M. Miller	J. Stackhouse	B. Wallace	J. Kidd
-1999-00	Los Angeles Lakers	S. O'Neal	"E. Brand,ÊS. Francis"	S. O'Neal	D. Mutombo	G. Payton
-1998-99	San Antonio Spurs	K. Malone	V. Carter	S. O'Neal	D. Mutombo	J. Kidd
-1997-98	Chicago Bulls	M. Jordan	T. Duncan	M. Jordan	D. Rodman	R. Strickland
-1996-97	Chicago Bulls	K. Malone	A. Iverson	M. Jordan	D. Mutombo	M. Jackson
-1995-96	Chicago Bulls	M. Jordan	D. Stoudamire	M. Jordan	D. Robinson	J. Stockton
-1994-95	Houston Rockets	D. Robinson	"G. Hill,ÊJ. Kidd"	S. O'Neal	D. Mutombo	J. Stockton
-1993-94	Houston Rockets	H. Olajuwon	C. Webber	D. Robinson	D. Rodman	J. Stockton
-1992-93	Chicago Bulls	C. Barkley	S. O'Neal	M. Jordan	D. Rodman	J. Stockton
-1991-92	Chicago Bulls	M. Jordan	L. Johnson	M. Jordan	D. Rodman	J. Stockton
-1990-91	Chicago Bulls	M. Jordan	D. Coleman	M. Jordan	D. Robinson	J. Stockton
-1989-90	Detroit Pistons	M. Johnson	D. Robinson	M. Jordan	H. Olajuwon	J. Stockton
-1988-89	Detroit Pistons	M. Johnson	M. Richmond	M. Jordan	H. Olajuwon	J. Stockton
-1987-88	Los Angeles Lakers	M. Jordan	M. Jackson	M. Jordan	C. Oakley	J. Stockton
-1986-87	Los Angeles Lakers	M. Johnson	C. Person	M. Jordan	C. Oakley	M. Johnson
-1985-86	Boston Celtics	L. Bird	P. Ewing	A. English	B. Laimbeer	M. Johnson
-1984-85	Los Angeles Lakers	L. Bird	M. Jordan	M. Jordan	M. Malone	I. Thomas
-1983-84	Boston Celtics	L. Bird	R. Sampson	A. Dantley	B. Laimbeer	N. Nixon
-1982-83	Philadelphia 76ers	M. Malone	T. Cummings	A. English	M. Malone	M. Johnson
-1981-82	Los Angeles Lakers	M. Malone	B. Williams	G. Gervin	M. Malone	J. Moore
-1980-81	Boston Celtics	J. Erving	D. Griffith	A. Dantley	M. Malone	K. Porter
-1979-80	Los Angeles Lakers	K. Abdul-Jabbar	L. Bird	G. Gervin	S. Nater	M. Richardson
-1978-79	Seattle SuperSonics	M. Malone	P. Ford	G. Gervin	M. Malone	K. Porter
-1977-78	Washington Bullets	B. Walton	W. Davis	G. Gervin	T. Robinson	K. Porter
-1976-77	Portland Trail Blazers	K. Abdul-Jabbar	A. Dantley	P. Maravich	K. Abdul-Jabbar	D. Buse
-1975-76	Boston Celtics	K. Abdul-Jabbar	A. Adams	B. McAdoo	K. Abdul-Jabbar	S. Watts
-1975-76	New York Nets	J. Erving	D. Thompson	J. Erving	A. Gilmore	D. Buse
-1974-75	Golden State Warriors	B. McAdoo	J. Wilkes	B. McAdoo	B. McAdoo	K. Porter
-1974-75	Kentucky Colonels	"J. Erving,ÊG. McGinnis"	M. Barnes	G. McGinnis	A. Gilmore	C. Williams
-1973-74	Boston Celtics	K. Abdul-Jabbar	E. DiGregorio	B. McAdoo	E. Hayes	E. DiGregorio
-1973-74	New York Nets	J. Erving	S. Nater	J. Erving	A. Gilmore	A. Smith
-1972-73	New York Knicks	D. Cowens	B. McAdoo	T. Archibald	W. Chamberlain	T. Archibald
-1972-73	Indiana Pacers	B. Cunningham	B. Taylor	D. Issel	A. Gilmore	C. Williams
-1971-72	Los Angeles Lakers	K. Abdul-Jabbar	S. Wicks	K. Abdul-Jabbar	W. Chamberlain	L. Wilkens
-1971-72	Indiana Pacers	A. Gilmore	A. Gilmore	D. Issel	A. Gilmore	B. Melchionni
-1970-71	Milwaukee Bucks	K. Abdul-Jabbar	"D. Cowens,ÊG. Petrie"	K. Abdul-Jabbar	W. Chamberlain	N. Van Lier
-1970-71	Utah Stars	M. Daniels	"D. Issel,ÊC. Scott"	D. Issel	M. Daniels	B. Melchionni
-1969-70	New York Knicks	W. Reed	K. Abdul-Jabbar	K. Abdul-Jabbar	E. Hayes	L. Wilkens
-1969-70	Indiana Pacers	S. Haywood	S. Haywood	S. Haywood	S. Haywood	L. Brown
-1968-69	Boston Celtics	W. Unseld	W. Unseld	E. Hayes	W. Chamberlain	O. Robertson
-1968-69	Oakland Oaks	M. Daniels	W. Jabali	L. Jones	M. Daniels	L. Brown
-1967-68	Boston Celtics	W. Chamberlain	E. Monroe	D. Bing	W. Chamberlain	W. Chamberlain
-1967-68	Pittsburgh Pipers	C. Hawkins	M. Daniels	D. Moe	M. Daniels	L. Brown
-1966-67	Philadelphia 76ers	W. Chamberlain	D. Bing	R. Barry	W. Chamberlain	G. Rodgers
-1965-66	Boston Celtics	W. Chamberlain	R. Barry	W. Chamberlain	W. Chamberlain	O. Robertson
-1964-65	Boston Celtics	B. Russell	W. Reed	W. Chamberlain	B. Russell	O. Robertson
-1963-64	Boston Celtics	O. Robertson	J. Lucas	W. Chamberlain	B. Russell	O. Robertson
-1962-63	Boston Celtics	B. Russell	T. Dischinger	W. Chamberlain	W. Chamberlain	G. Rodgers
-1961-62	Boston Celtics	B. Russell	W. Bellamy	W. Chamberlain	W. Chamberlain	O. Robertson
-1960-61	Boston Celtics	B. Russell	O. Robertson	W. Chamberlain	W. Chamberlain	O. Robertson
-1959-60	Boston Celtics	W. Chamberlain	W. Chamberlain	W. Chamberlain	W. Chamberlain	B. Cousy
-1958-59	Boston Celtics	B. Pettit	E. Baylor	B. Pettit	B. Russell	B. Cousy
-1957-58	St. Louis Hawks	B. Russell	W. Sauldsberry	G. Yardley	B. Russell	B. Cousy
-1956-57	Boston Celtics	B. Cousy	T. Heinsohn	P. Arizin	M. Stokes	B. Cousy
-1955-56	Philadelphia Warriors	B. Pettit	M. Stokes	B. Pettit	B. Pettit	B. Cousy
-1954-55	Syracuse Nationals		B. Pettit	N. Johnston	N. Johnston	B. Cousy
-1953-54	Minneapolis Lakers		R. Felix	N. Johnston	H. Gallatin	B. Cousy
-1952-53	Minneapolis Lakers		M. Meineke	N. Johnston	G. Mikan	B. Cousy
-1951-52	Minneapolis Lakers		"M. Hutchins,ÊB. Tosheff"	P. Arizin	L. Foust	A. Phillip
-1950-51	Rochester Royals		P. Arizin	G. Mikan	D. Schayes	A. Phillip
-1949-50	Minneapolis Lakers		A. Groza	G. Mikan		D. McGuire
-1948-49	Minneapolis Lakers		H. Shannon	G. Mikan		B. Davies
-1947-48	Baltimore Bullets		P. Hoffman	M. Zaslofsky		H. Dallmar
-1946-47	Philadelphia Warriors			J. Fulks		E. Calverley
+season	champion	mvp	rookieOfTheYear	mostPoints	mostRebounds	mostAssists
+2021				D. Lillard	R. Gobert	J. Harden
+2020	Los Angeles Lakers	G. Antetokounmpo	J. Morant	J. Harden	R. Gobert	L. James
+2019	Toronto Raptors	G. Antetokounmpo	L. Don_i_	J. Harden	A. Drummond	R. Westbrook
+2018	Golden State Warriors	J. Harden	B. Simmons	L. James	A. Drummond	R. Westbrook
+2017	Golden State Warriors	R. Westbrook	M. Brogdon	R. Westbrook	A. Drummond	J. Harden
+2016	Cleveland Cavaliers	S. Curry	K. Towns	J. Harden	A. Drummond	R. Rondo
+2015	Golden State Warriors	S. Curry	A. Wiggins	J. Harden	D. Jordan	C. Paul
+2014	San Antonio Spurs	K. Durant	M. Carter-Williams	K. Durant	D. Jordan	J. Wall
+2013	Miami Heat	L. James	D. Lillard	K. Durant	â€¦. A_Ãµk	G. Vâ€¡squez
+2012	Miami Heat	L. James	K. Irving	K. Durant	D. Howard	S. Nash
+2011	Dallas Mavericks	D. Rose	B. Griffin	K. Durant	K. Love	S. Nash
+2010	Los Angeles Lakers	L. James	T. Evans	K. Durant	D. Howard	S. Nash
+2009	Los Angeles Lakers	L. James	D. Rose	D. Wade	D. Howard	C. Paul
+2008	Boston Celtics	K. Bryant	K. Durant	K. Bryant	D. Howard	C. Paul
+2007	San Antonio Spurs	D. Nowitzki	B. Roy	K. Bryant	D. Howard	S. Nash
+2006	Miami Heat	S. Nash	C. Paul	K. Bryant	D. Howard	S. Nash
+2005	San Antonio Spurs	S. Nash	E. Okafor	A. Iverson	K. Garnett	S. Nash
+2004	Detroit Pistons	K. Garnett	L. James	K. Garnett	K. Garnett	S. Marbury
+2003	San Antonio Spurs	T. Duncan	A. Stoudemire	K. Bryant	B. Wallace	J. Kidd
+2002	Los Angeles Lakers	T. Duncan	P. Gasol	P. Pierce	T. Duncan	A. Miller
+2001	Los Angeles Lakers	A. Iverson	M. Miller	J. Stackhouse	B. Wallace	J. Kidd
+2000	Los Angeles Lakers	S. O'Neal	"E. Brand,ÃŠS. Francis"	S. O'Neal	D. Mutombo	G. Payton
+1999	San Antonio Spurs	K. Malone	V. Carter	S. O'Neal	D. Mutombo	J. Kidd
+1998	Chicago Bulls	M. Jordan	T. Duncan	M. Jordan	D. Rodman	R. Strickland
+1997	Chicago Bulls	K. Malone	A. Iverson	M. Jordan	D. Mutombo	M. Jackson
+1996	Chicago Bulls	M. Jordan	D. Stoudamire	M. Jordan	D. Robinson	J. Stockton
+1995	Houston Rockets	D. Robinson	"G. Hill,ÃŠJ. Kidd"	S. O'Neal	D. Mutombo	J. Stockton
+1994	Houston Rockets	H. Olajuwon	C. Webber	D. Robinson	D. Rodman	J. Stockton
+1993	Chicago Bulls	C. Barkley	S. O'Neal	M. Jordan	D. Rodman	J. Stockton
+1992	Chicago Bulls	M. Jordan	L. Johnson	M. Jordan	D. Rodman	J. Stockton
+1991	Chicago Bulls	M. Jordan	D. Coleman	M. Jordan	D. Robinson	J. Stockton
+1990	Detroit Pistons	M. Johnson	D. Robinson	M. Jordan	H. Olajuwon	J. Stockton
+1989	Detroit Pistons	M. Johnson	M. Richmond	M. Jordan	H. Olajuwon	J. Stockton
+1988	Los Angeles Lakers	M. Jordan	M. Jackson	M. Jordan	C. Oakley	J. Stockton
+1987	Los Angeles Lakers	M. Johnson	C. Person	M. Jordan	C. Oakley	M. Johnson
+1986	Boston Celtics	L. Bird	P. Ewing	A. English	B. Laimbeer	M. Johnson
+1985	Los Angeles Lakers	L. Bird	M. Jordan	M. Jordan	M. Malone	I. Thomas
+1984	Boston Celtics	L. Bird	R. Sampson	A. Dantley	B. Laimbeer	N. Nixon
+1983	Philadelphia 76ers	M. Malone	T. Cummings	A. English	M. Malone	M. Johnson
+1982	Los Angeles Lakers	M. Malone	B. Williams	G. Gervin	M. Malone	J. Moore
+1981	Boston Celtics	J. Erving	D. Griffith	A. Dantley	M. Malone	K. Porter
+1980	Los Angeles Lakers	K. Abdul-Jabbar	L. Bird	G. Gervin	S. Nater	M. Richardson
+1979	Seattle SuperSonics	M. Malone	P. Ford	G. Gervin	M. Malone	K. Porter
+1978	Washington Bullets	B. Walton	W. Davis	G. Gervin	T. Robinson	K. Porter
+1977	Portland Trail Blazers	K. Abdul-Jabbar	A. Dantley	P. Maravich	K. Abdul-Jabbar	D. Buse
+1976	Boston Celtics	K. Abdul-Jabbar	A. Adams	B. McAdoo	K. Abdul-Jabbar	S. Watts
+1976	New York Nets	J. Erving	D. Thompson	J. Erving	A. Gilmore	D. Buse
+1975	Golden State Warriors	B. McAdoo	J. Wilkes	B. McAdoo	B. McAdoo	K. Porter
+1975	Kentucky Colonels	"J. Erving,ÃŠG. McGinnis"	M. Barnes	G. McGinnis	A. Gilmore	C. Williams
+1974	Boston Celtics	K. Abdul-Jabbar	E. DiGregorio	B. McAdoo	E. Hayes	E. DiGregorio
+1974	New York Nets	J. Erving	S. Nater	J. Erving	A. Gilmore	A. Smith
+1973	New York Knicks	D. Cowens	B. McAdoo	T. Archibald	W. Chamberlain	T. Archibald
+1972	Los Angeles Lakers	K. Abdul-Jabbar	S. Wicks	K. Abdul-Jabbar	W. Chamberlain	L. Wilkens
+1971	Milwaukee Bucks	K. Abdul-Jabbar	"D. Cowens,ÃŠG. Petrie"	K. Abdul-Jabbar	W. Chamberlain	N. Van Lier
+1970	New York Knicks	W. Reed	K. Abdul-Jabbar	K. Abdul-Jabbar	E. Hayes	L. Wilkens
+1969	Boston Celtics	W. Unseld	W. Unseld	E. Hayes	W. Chamberlain	O. Robertson
+1968	Boston Celtics	W. Chamberlain	E. Monroe	D. Bing	W. Chamberlain	W. Chamberlain
+1967	Philadelphia 76ers	W. Chamberlain	D. Bing	R. Barry	W. Chamberlain	G. Rodgers
+1966	Boston Celtics	W. Chamberlain	R. Barry	W. Chamberlain	W. Chamberlain	O. Robertson
+1965	Boston Celtics	B. Russell	W. Reed	W. Chamberlain	B. Russell	O. Robertson
+1964	Boston Celtics	O. Robertson	J. Lucas	W. Chamberlain	B. Russell	O. Robertson
+1963	Boston Celtics	B. Russell	T. Dischinger	W. Chamberlain	W. Chamberlain	G. Rodgers
+1962	Boston Celtics	B. Russell	W. Bellamy	W. Chamberlain	W. Chamberlain	O. Robertson
+1961	Boston Celtics	B. Russell	O. Robertson	W. Chamberlain	W. Chamberlain	O. Robertson
+1960	Boston Celtics	W. Chamberlain	W. Chamberlain	W. Chamberlain	W. Chamberlain	B. Cousy
+1959	Boston Celtics	B. Pettit	E. Baylor	B. Pettit	B. Russell	B. Cousy
+1958	St. Louis Hawks	B. Russell	W. Sauldsberry	G. Yardley	B. Russell	B. Cousy
+1957	Boston Celtics	B. Cousy	T. Heinsohn	P. Arizin	M. Stokes	B. Cousy
+1956	Philadelphia Warriors	B. Pettit	M. Stokes	B. Pettit	B. Pettit	B. Cousy
+1955	Syracuse Nationals		B. Pettit	N. Johnston	N. Johnston	B. Cousy
+1954	Minneapolis Lakers		R. Felix	N. Johnston	H. Gallatin	B. Cousy
+1953	Minneapolis Lakers		M. Meineke	N. Johnston	G. Mikan	B. Cousy
+1952	Minneapolis Lakers		"M. Hutchins,ÃŠB. Tosheff"	P. Arizin	L. Foust	A. Phillip
+1951	Rochester Royals		P. Arizin	G. Mikan	D. Schayes	A. Phillip
+1950	Minneapolis Lakers		A. Groza	G. Mikan		D. McGuire
+1949	Minneapolis Lakers		H. Shannon	G. Mikan		B. Davies
+1948	Baltimore Bullets		P. Hoffman	M. Zaslofsky		H. Dallmar
+1947	Philadelphia Warriors			J. Fulks		E. Calverley
