@@ -1,4 +1,4 @@
-franchiseName	gamesPlayed	wins	losses	winLoss	championship
+franchiseName	gamesPlayed	wins	losses	winLoss	championships
 BOS	5845	3450	2395	0.59	17
 LAL	5735	3416	2319	0.596	17
 MEM	2039	849	1190	0.416	0
