@@ -2,3 +2,7 @@ Marc Helou - mhelou1
 Kevin Velasquez - kvelasq1
 
 The way that player statistics are structured on basketball-reference.com makes it difficult to download and combine all player info into one text file. We must use a script / API in order to facilitate downloading all player statistics to one file.
+
+We ended up using BeautifulSoup and Pandas to go through pages and scrape the tables (since we cannot simply download a csv).
+
+One issue we have is that player names with accents will sometimes show up weird on the csv.
