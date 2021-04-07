@@ -1,3 +1,6 @@
+Marc Helou - mhelou1
+Kevin Velasquez - kvelasq1
+
 Team:
 * Download Excel workbook from https://www.basketball-reference.com/teams/.
 * In Excel, delete all franchises that are not active, then delete all coloumns except G, W, L, W/L, & Champ.
