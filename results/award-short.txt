@@ -1,0 +1,13 @@
+SEASON	CHAMPION	MVP	ROTY	POINTS	REBOUNDS	ASSISTS
+2019-20	Los Angeles Lakers	G. Antetokounmpo	J. Morant	J. Harden	R. Gobert	L. James
+2018-19	Toronto Raptors	G. Antetokounmpo	L. Don_i_	J. Harden	A. Drummond	R. Westbrook
+2013-14	San Antonio Spurs	K. Durant	M. Carter-Williams	K. Durant	D. Jordan	J. Wall
+2012-13	Miami Heat	L. James	D. Lillard	K. Durant	…. A_õk	G. V‡squez
+2011-12	Miami Heat	L. James	K. Irving	K. Durant	D. Howard	S. Nash
+2010-11	Dallas Mavericks	D. Rose	B. Griffin	K. Durant	K. Love	S. Nash
+1997-98	Chicago Bulls	M. Jordan	T. Duncan	M. Jordan	D. Rodman	R. Strickland
+1996-97	Chicago Bulls	K. Malone	A. Iverson	M. Jordan	D. Mutombo	M. Jackson
+1982-83	Philadelphia 76ers	M. Malone	T. Cummings	A. English	M. Malone	M. Johnson
+1981-82	Los Angeles Lakers	M. Malone	B. Williams	G. Gervin	M. Malone	J. Moore
+1980-81	Boston Celtics	J. Erving	D. Griffith	A. Dantley	M. Malone	K. Porter
+1979-80	Los Angeles Lakers	K. Abdul-Jabbar	L. Bird	G. Gervin	S. Nater	M. Richardson
