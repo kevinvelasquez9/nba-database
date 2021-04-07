@@ -1,0 +1,15 @@
+season	playerName
+1964	Lenny Wilkens
+1964	John Windsor
+1968	Paul Silas
+1971	Elgin Baylor
+1971	Walt Bellamy
+1980	Magic Johnson
+1990	Randy White
+1992	Chris Mullin
+1995	Brad Lohaus
+2001	Derek Fisher
+2006	Vin Baker
+2009	Samuel Dalembert
+2011	Luol Deng
+2011	DeMar DeRozan
