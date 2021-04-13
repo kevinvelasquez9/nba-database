@@ -13,15 +13,17 @@ Buzzerbeater:
 * No script necessary. It is more tedious to write the script than to use Excel for this entity.
 
 Contract:
-* Download Excel workbook from https://www.basketball-reference.com/contracts/players.html.
-* In Excel, delete all columns not in ER diagram.
-* Use a Python script to change team names to acronyms. (with a dictionary)
+* Download players.csv and salaries_1985to2018 from https://data.world/datadavis/nba-salaries.
+* In DBVisualizer, run data-scripts/contract.sql, changing the file paths of the csv's to their proper names before running.
+* With this done, run contract.py to fetch the remaining seasons from now to present, then append them to the resultant csv from contract.sql in excel.
+* Clean the dataset, getting rid of all unused attributes.
 
 Award:
 * Download Excel workbook from https://https://www.basketball-reference.com/leagues/.
 * In Excel, delete all columns not in ER diagram.
 * In Excel, replace all (?) with nothing in player name.
 * Use a Python script to change team names to acronyms. (with a dictionary)
+* Manually change names from initials to full names (use your ball knowledge!)
 
 Injury:
 * Use this site to get all injury reports: https://www.prosportstransactions.com/basketball/Search/SearchResults.php?Player=&Team=&BeginDate=&EndDate=&InjuriesChkBx=yes&Submit=Search&start=29050

@@ -1,0 +1,67 @@
+season,champion,mvp,rookieOfTheYear,mostPoints,mostRebounds,mostAssists
+2021,,,,Damian Lillard,Rudy Gobert,James Harden
+2020,LAL,Giannis Antetokounmpo,Ja Morant,James Harden,Rudy Gobert,Lebron James
+2019,TOR,Giannis Antetokounmpo,Luka Don?i?,James Harden,Andre Drummond,Russell Westbrook
+2018,GSW,James Harden,Ben Simmons,Lebron James,Andre Drummond,Russell Westbrook
+2017,GSW,Russell Westbrook,Malcolm Brogdon,Russell Westbrook,Andre Drummond,James Harden
+2016,CLE,Stephen Curry,Karl Anthony-Towns,James Harden,Andre Drummond,Rajon Rondo
+2015,GSW,Stephen Curry,Andrew Wiggins,James Harden,Deandre Jordan,Chris Paul
+2014,SAS,Kevin Durant,Michael Carter-Williams,Kevin Durant,Deandre Jordan,John Wall
+2013,MIA,Lebron James,Damian Lillard,Kevin Durant,Ömer A??k,Greivis Vásquez
+2012,MIA,Lebron James,Kyrie Irving,Kevin Durant,Dwight Howard,Steve Nash
+2011,DAL,Derrick Rose,Blake Griffin,Kevin Durant,Kevin Love,Steve Nash
+2010,LAL,Lebron James,Tyreke Evans,Kevin Durant,Dwight Howard,Steve Nash
+2009,LAL,Lebron James,Derrick Rose,Dwyane Wade,Dwight Howard,Chris Paul
+2008,BOS,Kobe Bryant,Kevin Durant,Kobe Bryant,Dwight Howard,Chris Paul
+2007,SAS,Dirk Nowitzki,Brandon Roy,Kobe Bryant,Dwight Howard,Steve Nash
+2006,MIA,Steve Nash,Chris Paul,Kobe Bryant,Dwight Howard,Steve Nash
+2005,SAS,Steve Nash,Emeka Okafor,Allen Iverson,Kevin Garnett,Steve Nash
+2004,DET,Kevin Garnett,Lebron James,Kevin Garnett,Kevin Garnett,Stephon Marbury
+2003,SAS,Tim Duncan,Amar'e Stoudemire,Kobe Bryant,Ben Wallace,Jason Kidd
+2002,LAL,Tim Duncan,Pau Gasol,Paul Pierce,Tim Duncan,Andrew Miller
+2001,LAL,Allen Iverson,Mike Miller,Jerry Stackhouse,B. Wallace,Jason Kidd
+2000,LAL,Shaquille O'Neal,"Elton Brand, Steve Francis",Shaquille O'Neal,Dikembe Mutombo,Gary Payton
+1999,SAS,Karl Malone,Vince Carter,Shaquille O'Neal,Dikembe Mutombo,Jason Kidd
+1998,CHI,Michael Jordan,Tim Duncan,Michael Jordan,Dennis Rodman,Rod Strickland
+1997,CHI,Karl Malone,Allen Iverson,Michael Jordan,Dikembe Mutombo,Mark Jackson
+1996,CHI,Michael Jordan,Damon Stoudamire,Michael Jordan,David Robinson,John Stockton
+1995,HOU,David Robinson,"George Hill, Jason Kidd",Shaquille O'Neal,Dikembe Mutombo,John Stockton
+1994,HOU,Hakeem Olajuwon,Chris Webber,David Robinson,Dennis Rodman,John Stockton
+1993,CHI,Charles Barkley,Shaquille O'Neal,Michael Jordan,Dennis Rodman,John Stockton
+1992,CHI,Michael Jordan,Larry Johnson,Michael Jordan,Dennis Rodman,John Stockton
+1991,CHI,Michael Jordan,Derrick Coleman,Michael Jordan,Dennis Rodman,John Stockton
+1990,DET,Magic Johnson,David Robinson,Michael Jordan,Hakeem Olajuwon,John Stockton
+1989,DET,Magic Johnson,Mitch Richmond,Michael Jordan,Hakeem Olajuwon,John Stockton
+1988,LAL,Michael Jordan,Mark Jackson,Michael Jordan,Charles Oakley,John Stockton
+1987,LAL,Magic Johnson,Chuck Person,Michael Jordan,Charles Oakley,Mark Johnson
+1986,BOS,Larry Bird,Patrick Ewing,Alex English,Bill Laimbeer,Mark Johnson
+1985,LAL,Larry Bird,Michael Jordan,Michael Jordan,Moses Malone,Isiah Thomas
+1984,BOS,Larry Bird,Ralph Sampson,Adrian Dantley,Bill Laimbeer,Norm Nixon
+1983,PHI,Moses Malone,Terry Cummings,Alex English,Moses Malone,Magic Johnson
+1982,LAL,Moses Malone,Buck Williams,George Gervin,Moses Malone,Johnny Moore
+1981,BOS,Julius Erving,Darrell Griffith,Adrian Dantley,Moses Malone,Kevin Porter
+1980,LAL,Kareem Abdul-Jabbar,Larry Bird,George Gervin,Swen Nater,Michael Richardson
+1979,SEA,Moses Malone,Phil Ford,George Gervin,Moses Malone,Kevin Porter
+1978,WAS,Bill Walton,Walter Davis,George Gervin,Truck Robinson,Kevin Porter
+1977,POR,Kareem Abdul-Jabbar,Adrian Dantley,Pete Maravich,Kareem Abdul-Jabbar,Don Buse
+1976,BOS,Kareem Abdul-Jabbar,Alvan Adams,Bob McAdoo,Kareem Abdul-Jabbar,Slick Watts
+1975,GSW,Bob McAdoo,Jamaal Wilkes,Bob McAdoo,Bob McAdoo,Kevin Porter
+1974,BOS,Kareem Abdul-Jabbar,Ernie DiGregorio,Bob McAdoo,Elvin Hayes,Ernie DiGregorio
+1973,NYK,Dave Cowens,Bob McAdoo,Tiny Archibald,Wilt Chamberlain,Tiny Archibald
+1972,LAL,Kareem Abdul-Jabbar,Sindey Wicks,Kareeem Abdul-Jabbar,Wilt Chamberlain,Lenny Wilkens
+1971,MIL,Kareem Abdul-Jabbar,"Dave Cowens, Geoff Petrie",Kareeem Abdul-Jabbar,Wilt Chamberlain,Norm Van Lier
+1970,NYK,Willis Reed,Kareem Abdul-Jabbar,Kareeem Abdul-Jabbar,Elvin Hayes,Lenny Wilkens
+1969,BOS,Wes Unseld,Wes Unseld,Elvin Hayes,Wilt Chamberlain,Oscar Robertson
+1968,BOS,Wilt Chamberlain,Earl Monroe,Dave Bing,Wilt Chamberlain,Wilt Chamberlain
+1967,PHI,Wilt Chamberlain,Dave Bing,Rick Barry,Wilt Chamberlain,Guy Rodgers
+1966,BOS,Wilt Chamberlain,Rick Barry,Wilt Chamberlain,Wilt Chamberlain,Oscar Robertson
+1965,BOS,Bill Russell,Willis Reed,Wilt Chamberlain,Bill Russell,Oscar Robertson
+1964,BOS,Oscar Robertson,Jerry Lucas,Wilt Chamberlain,Bill Russell,Oscar Robertson
+1963,BOS,Bill Russell,Terry Dischinger,Wilt Chamberlain,Wilt Chamberlain,Guy Rodgers
+1962,BOS,Bill Russell,Walt Bellamy,Wilt Chamberlain,Wilt Chamberlain,Oscar Robertson
+1961,BOS,Bill Russell,Oscar Robertson,Wilt Chamberlain,Wilt Chamberlain,Oscar Robertson
+1960,BOS,Wilt Chamberlain,Wilt Chamberlain,Wilt Chamberlain,Wilt Chamberlain,Bob Cousy
+1959,BOS,Bob Pettit,Elgin Baylor,Bob Pettit,Bill Russell,Bob Cousy
+1958,SLH,Bill Russell,Woody Sauldsberry,George Yardley,Bill Russell,Bob Cousy
+1957,BOS,Bob Cousy,Tom Heinsohn,Paul Arizin,Maurice Stokes,Bob Cousy
+1956,PHI,Bob Pettit,Maurice Stokes,Bob Pettit,Bob Pettit,Bob Cousy
