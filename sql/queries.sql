@@ -5,9 +5,21 @@ WITH MVP AS (SELECT season, mvp AS 'playerName'
 SELECT season, playerName, pointsPerGame
 FROM MVP NATURAL JOIN Statistics;
 
+-- Question 3
+WITH MVP AS (SELECT DISTINCT mvp
+             FROM Award),
+     P AS (SELECT COUNT(MVP.mvp) AS hadMostPoints
+           FROM MVP JOIN Award ON MVP.mvp = Award.mostPoints),
+     R AS (SELECT COUNT(MVP.mvp) AS hadMostRebounds
+           FROM MVP JOIN Award ON MVP.mvp = Award.mostRebounds),
+     A AS (SELECT COUNT(MVP.mvp) AS hadMostAssists
+           FROM MVP JOIN Award ON MVP.mvp = Award.mostAssists)
+SELECT *
+FROM P, R, A;
+
 -- Question 4
-SELECT DISTINCT a1.mvp
-FROM Award AS a1 JOIN Award AS a2 ON a1.mvp = a2.rookieOfTheYear;
+SELECT DISTINCT A1.mvp
+FROM Award AS A1 JOIN Award AS A2 ON A1.mvp = A2.rookieOfTheYear;
 
 -- Question 5
 WITH T1 AS (SELECT AVG(distance) AS 'avgDistanceOf2000s'
