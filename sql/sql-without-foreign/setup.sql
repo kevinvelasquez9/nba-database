@@ -4,7 +4,7 @@ CREATE TABLE Player (
   PRIMARY KEY(playerName, season)
 );
 
-LOAD DATA LOCAL INFILE '/Users/kevinvelasquez/projects/nba-database/phase-c/player.csv'
+LOAD DATA LOCAL INFILE '/Users/kevinvelasquez/projects/nba-database/data/full/player.csv'
 INTO TABLE Player
 FIELDS TERMINATED BY ','
 LINES TERMINATED BY '\n'
@@ -20,7 +20,7 @@ CREATE TABLE Team (
   PRIMARY KEY(franchiseName)
 );
 
-LOAD DATA LOCAL INFILE '/Users/kevinvelasquez/projects/nba-database/phase-c/team.csv'
+LOAD DATA LOCAL INFILE '/Users/kevinvelasquez/projects/nba-database/data/full/team.csv'
 INTO TABLE Team
 FIELDS TERMINATED BY ','
 LINES TERMINATED BY '\n'
@@ -35,7 +35,7 @@ CREATE TABLE Contract (
   FOREIGN KEY(franchiseName) REFERENCES Team(franchiseName) ON DELETE CASCADE ON UPDATE CASCADE
 );
 
-LOAD DATA LOCAL INFILE '/Users/kevinvelasquez/projects/nba-database/phase-c/contract.csv'
+LOAD DATA LOCAL INFILE '/Users/kevinvelasquez/projects/nba-database/data/full/contract.csv'
 INTO TABLE Contract
 FIELDS TERMINATED BY ','
 LINES TERMINATED BY '\n'
@@ -53,7 +53,7 @@ CREATE TABLE Statistics (
   PRIMARY KEY(season, playerName)
 );
 
-LOAD DATA LOCAL INFILE '/Users/kevinvelasquez/projects/nba-database/phase-c/statistics.csv'
+LOAD DATA LOCAL INFILE '/Users/kevinvelasquez/projects/nba-database/data/full/statistics.csv'
 INTO TABLE Statistics
 FIELDS TERMINATED BY ','
 LINES TERMINATED BY '\n'
@@ -70,7 +70,7 @@ CREATE TABLE BuzzerBeater (
   PRIMARY KEY(gameID)
 );
 
-LOAD DATA LOCAL INFILE '/Users/kevinvelasquez/projects/nba-database/phase-c/buzzerbeater.csv'
+LOAD DATA LOCAL INFILE '/Users/kevinvelasquez/projects/nba-database/data/full/buzzerbeater.csv'
 INTO TABLE BuzzerBeater
 FIELDS TERMINATED BY ','
 LINES TERMINATED BY '\n'
@@ -87,7 +87,7 @@ CREATE TABLE Award (
   PRIMARY KEY(season)
 );
 
-LOAD DATA LOCAL INFILE '/Users/kevinvelasquez/projects/nba-database/phase-c/award.csv'
+LOAD DATA LOCAL INFILE '/Users/kevinvelasquez/projects/nba-database/data/full/award.csv'
 INTO TABLE Award
 FIELDS TERMINATED BY ','
 LINES TERMINATED BY '\n'
@@ -101,7 +101,7 @@ CREATE TABLE Injury (
   PRIMARY KEY(injuryID)
 );
 
-LOAD DATA LOCAL INFILE '/Users/kevinvelasquez/projects/nba-database/phase-c/injury.csv'
+LOAD DATA LOCAL INFILE '/Users/kevinvelasquez/projects/nba-database/data/full/injury.csv'
 INTO TABLE Injury
 FIELDS TERMINATED BY ','
 LINES TERMINATED BY '\n'
