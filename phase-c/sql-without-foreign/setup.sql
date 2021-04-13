@@ -4,7 +4,7 @@ CREATE TABLE Player (
   PRIMARY KEY(playerName, season)
 );
 
-LOAD DATA LOCAL INFILE '/Users/kevinvelasquez/tmp/nba-database/csv/player.csv'
+LOAD DATA LOCAL INFILE '/Users/kevinvelasquez/projects/nba-database/phase-c/player.csv'
 INTO TABLE Player
 FIELDS TERMINATED BY ','
 LINES TERMINATED BY '\n'
@@ -20,7 +20,7 @@ CREATE TABLE Team (
   PRIMARY KEY(franchiseName)
 );
 
-LOAD DATA LOCAL INFILE '/Users/kevinvelasquez/tmp/nba-database/csv/team.csv'
+LOAD DATA LOCAL INFILE '/Users/kevinvelasquez/projects/nba-database/phase-c/team.csv'
 INTO TABLE Team
 FIELDS TERMINATED BY ','
 LINES TERMINATED BY '\n'
@@ -35,7 +35,7 @@ CREATE TABLE Contract (
   FOREIGN KEY(franchiseName) REFERENCES Team(franchiseName) ON DELETE CASCADE ON UPDATE CASCADE
 );
 
-LOAD DATA LOCAL INFILE '/Users/kevinvelasquez/tmp/nba-database/csv/contract.csv'
+LOAD DATA LOCAL INFILE '/Users/kevinvelasquez/projects/nba-database/phase-c/contract.csv'
 INTO TABLE Contract
 FIELDS TERMINATED BY ','
 LINES TERMINATED BY '\n'
@@ -45,15 +45,15 @@ CREATE TABLE Statistics (
   season VARCHAR(255),
   playerName VARCHAR(255),
   gamesPlayed VARCHAR(255),
-  minutesPerGame DEC(2, 2),
-  fieldGoalPercentage DEC(3, 3),
-  reboundsPerGame DEC(2, 2),
-  assistsPerGame DEC(2, 2),
-  pointsPerGame DEC(2, 2),
+  minutesPerGame DEC(10, 1),
+  fieldGoalPercentage DEC(10, 1),
+  reboundsPerGame DEC(10, 1),
+  assistsPerGame DEC(10, 1),
+  pointsPerGame DEC(10, 1),
   PRIMARY KEY(season, playerName)
 );
 
-LOAD DATA LOCAL INFILE '/Users/kevinvelasquez/tmp/nba-database/csv/statistics.csv'
+LOAD DATA LOCAL INFILE '/Users/kevinvelasquez/projects/nba-database/phase-c/statistics.csv'
 INTO TABLE Statistics
 FIELDS TERMINATED BY ','
 LINES TERMINATED BY '\n'
@@ -70,7 +70,7 @@ CREATE TABLE BuzzerBeater (
   PRIMARY KEY(gameID)
 );
 
-LOAD DATA LOCAL INFILE '/Users/kevinvelasquez/tmp/nba-database/csv/buzzerbeater.csv'
+LOAD DATA LOCAL INFILE '/Users/kevinvelasquez/projects/nba-database/phase-c/buzzerbeater.csv'
 INTO TABLE BuzzerBeater
 FIELDS TERMINATED BY ','
 LINES TERMINATED BY '\n'
@@ -87,7 +87,7 @@ CREATE TABLE Award (
   PRIMARY KEY(season)
 );
 
-LOAD DATA LOCAL INFILE '/Users/kevinvelasquez/tmp/nba-database/csv/award.csv'
+LOAD DATA LOCAL INFILE '/Users/kevinvelasquez/projects/nba-database/phase-c/award.csv'
 INTO TABLE Award
 FIELDS TERMINATED BY ','
 LINES TERMINATED BY '\n'
@@ -101,7 +101,7 @@ CREATE TABLE Injury (
   PRIMARY KEY(injuryID)
 );
 
-LOAD DATA LOCAL INFILE '/Users/kevinvelasquez/tmp/nba-database/csv/injury.csv'
+LOAD DATA LOCAL INFILE '/Users/kevinvelasquez/projects/nba-database/phase-c/injury.csv'
 INTO TABLE Injury
 FIELDS TERMINATED BY ','
 LINES TERMINATED BY '\n'

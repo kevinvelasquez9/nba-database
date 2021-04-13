@@ -5,6 +5,10 @@ WITH MVP AS (SELECT season, mvp AS 'playerName'
 SELECT season, playerName, pointsPerGame
 FROM MVP NATURAL JOIN Statistics;
 
+-- Question 4
+SELECT DISTINCT a1.mvp
+FROM Award AS a1 JOIN Award AS a2 ON a1.mvp = a2.rookieOfTheYear;
+
 -- Question 15
 WITH MVP AS (SELECT playerName, COUNT(playerName) AS 'numBuzzerbeaters'
              FROM (SELECT DISTINCT mvp AS 'playerName'
