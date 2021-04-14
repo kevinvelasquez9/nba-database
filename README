@@ -1,0 +1,34 @@
+Marc Helou - mhelou1
+Kevin Velasquez - kvelasq1
+
+-- Phase C Notes --
+
+The way that player statistics are structured on basketball-reference.com makes it difficult to download and combine all player info into one text file. We must use a script / API in order to facilitate downloading all player statistics to one file.
+
+We ended up using BeautifulSoup and Pandas to go through pages and scrape the tables (since we cannot simply download a csv).
+
+One issue we have is that player names with accents will sometimes show up weird on the csv.
+
+Another issue is the inconsistency in player names and team names. For example, in some of our sources Lebron James would be listed as L. James instead of his full name. This proved to be very difficult in handling our foreign key constraints.
+
+Hence, we have two sets of setup: one with the proper schema and without foreign keys. The proper schema is our ultimate goal however this data cleaning has become a challenge so we worked without foreign keys to strive for no errors.
+
+-- Phase D Notes -- 
+
+This phase, we decided to tackle all of the problems that were plaguing us in past phases. 
+
+First, we manually changed all of the names in the award.csv to no longer use initials for players' first names. This took a lot of time but ultimately fixed a nagging foreign key constraint error from before.
+
+Second, we scraped all of the contract data we could find on the internet and managed to get all player salaries from 1985-2021 with a combination of python scripts with beautiful soup and SQL queries on tables that were available on the internet. This took a lot of time but patched a big hole in our database.
+
+Third, we refactored the file structure of the entire GitHub repository we have been using, and it is now in a very easy to access state! Files are in predictable locations and the repository is well on its way to deployment in a future phase.
+
+Fourth, we overhauled our questions from Phase A, removing all of the most simple questions and adding new questions concerning the Contract table. We also needed to make some questions less or more complex based on the data that have readily available. The updated questions are in the questions.md file at the top of our file structure.
+
+Fifth, we changed some of the foreign key constraints in our SQL DDL to reflect the changes we made in our database, and they now work as intended.
+
+Sixth, we added more information to our process.txt to reflect the new scripts we added for our updated datasets.
+
+With these fixes, we no longer need to shift our original intentions of using a full-fledged NBA database for this assignment. Essentially no compromises were made and we're really happy that we were able to patch up all of the inconsistencies in our dataset. 
+
+As a caveat, the *-short.csv files were not updated this phase because we found that these files aren't very useful for testing our queries (NBA stats are all about mass aggregation!)
