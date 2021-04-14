@@ -27,12 +27,10 @@ LINES TERMINATED BY '\n'
 IGNORE 1 ROWS;
 
 CREATE TABLE Contract (
-  contractID int NOT NULL,
   playerName VARCHAR(255),
-  franchiseName VARCHAR(255),
-  salary VARCHAR(255),
-  PRIMARY KEY(contractID),
-  FOREIGN KEY(franchiseName) REFERENCES Team(franchiseName) ON DELETE CASCADE ON UPDATE CASCADE
+  salary INT,
+  season INT,
+  PRIMARY KEY(playerName, season)
 );
 
 LOAD DATA LOCAL INFILE '/Users/kevinvelasquez/projects/nba-database/data/full/contract.csv'

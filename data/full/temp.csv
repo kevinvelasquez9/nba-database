@@ -1,0 +1,786 @@
+gameID,playerName,date,winningTeam,opposingTeam,assistedPlayerName,distance
+0,Harrison Barnes,Mar 27 2021,SAC,CLE,D. Fox,0
+1,Tony Snell,Mar 11 2021,ATL,TOR,T. Young,25
+2,Luguentz Dort,Feb 24 2021,OKC,SAS,A. Horford,23
+3,Terry Rozier,Feb 20 2021,CHA,GSW,unassisted,20
+4,Damian Lillard,Jan 30 2021,POR,WAS,unassisted,26
+5,Cole Anthony,Jan 20 2021,ORL,LAL,unassisted,25
+6,Buddy Hield,Dec 23 2020,SAC,DEN,unassisted,0
+7,Anthony Davis,Sep 20 2020 p,LAL,DEN,R. Rondo,26
+8,OG Anunoby,Sep 3 2020 p,TOR,BOS,K. Lowry,23
+9,Jimmy Butler,Sep 2 2020 p,MIA,ATL,,
+10,Luka Dončić,Aug 23 2020 p,DAL,LAC,unassisted,27
+11,Devin Booker,Aug 4 2020,PHO,LAC,unassisted,18
+12,Bojan Bogdanović,Feb 9 2020,UTA,HOU,J. Ingles,28
+13,Nemanja Bjelica,Dec 9 2019,SAC,HOU,C. Joseph,32
+14,Malik Monk,Nov 15 2019,CHA,DET,C. Martin,26
+15,Bojan Bogdanović,Nov 8 2019,UTA,ATL,J. Ingles,23
+16,Jae Crowder,Oct 27 2019,MEM,BRK,J. Morant,27
+17,Kawhi Leonard,May 12 2019 p,TOR,GSW,unassisted,15
+18,Damian Lillard,Apr 23 2019 p,POR,OKC,unassisted,36
+19,Maurice Harkless,Apr 9 2019,POR,LAL,C. McCollum,24
+20,Trae Young,Mar 31 2019,ATL,ATL,unassisted,11
+21,Jeremy Lamb,Mar 24 2019,CHA,TOR,unassisted,48
+22,Lou Williams,Mar 17 2019,LAC,BRK,D. Gallinari,28
+23,Nikola Jokić,Mar 14 2019,DEN,DAL,unassisted,12
+24,Dwyane Wade,Feb 27 2019,MIA,GSW,unassisted,25
+25,Rajon Rondo,Feb 7 2019,LAL,BOS,unassisted,19
+26,Karl-Anthony Towns,Jan 30 2019,LAL,MEM,unassisted,14
+27,Rudy Gay,Jan 29 2019,SAS,PHO,unassisted,21
+28,Buddy Hield,Jan 19 2019,SAC,DET,unassisted,27
+29,Pascal Siakam,Jan 17 2019,TOR,PHO,unassisted,2
+30,Evan Fournier,Dec 30 2018,ORL,DET,A. Gordon,12
+31,Bogdan Bogdanović,Dec 27 2018,SAC,LAL,N. Bjelica,26
+32,Larry Nance Jr.,Dec 18 2018,CLE,IND,unassisted,0
+33,Reggie Bullock,Nov 14 2018,DET,TOR,J. Calderón,5
+34,Evan Fournier,Nov 5 2018,ORL,CLE,A. Gordon,24
+35,LeBron James,May 5 2018 p,CLE,TOR,unassisted,9
+36,LeBron James,Apr 25 2018 p,CLE,IND,J. Green,24
+37,Gerald Green,Mar 30 2018,HOU,PHO,T. Ariza,23
+38,Russell Westbrook,Feb 22 2018,OKC,SAC,C. Anthony,25
+39,LeBron James,Feb 7 2018,CLE,LAL,J. Green,17
+40,Al Horford,Feb 4 2018,BOS,POR,J. Brown,19
+41,Gary Harris,Feb 1 2018,DEN,OKC,N. Jokić,24
+42,Harrison Barnes,Nov 22 2017,DAL,MEM,D. Smith,29
+43,Blake Griffin,Oct 26 2017,LAC,POR,unassisted,24
+44,Eric Gordon,Oct 25 2017,HOU,GSW,J. Harden,23
+45,Andrew Wiggins,Oct 22 2017,LAL,OKC,unassisted,29
+46,Joe Johnson,Apr 15 2017 p,UTA,LAC,unassisted,4
+47,Noah Vonleh,Apr 10 2017,POR,SAS,unassisted,2
+48,D'Angelo Russell,Apr 9 2017,LAL,LAL,J. Randle,25
+49,Russell Westbrook,Apr 9 2017,OKC,DEN,S. Adams,36
+50,Hassan Whiteside,Mar 28 2017,MIA,DET,unassisted,0
+51,Brook Lopez,Mar 21 2017,BRK,DET,R. Foye,16
+52,Devin Booker,Mar 11 2017,PHO,DAL,unassisted,19
+53,Rudy Gobert,Mar 5 2017,UTA,SAC,unassisted,1
+54,Tyler Ulis,Mar 5 2017,PHO,BOS,unassisted,25
+55,Devin Booker,Feb 3 2017,PHO,SAC,unassisted,20
+56,Andrew Wiggins,Jan 24 2017,LAL,PHO,unassisted,18
+57,Marcus Morris,Jan 21 2017,DET,WAS,unassisted,0
+58,T.J. McConnell,Jan 11 2017,GSW,NYK,E. İlyasova,12
+59,Giannis Antetokounmpo,Jan 4 2017,ATL,NYK,unassisted,15
+60,Jimmy Butler,Dec 28 2016,WAS,BRK,unassisted,20
+61,Randy Foye,Dec 26 2016,BRK,CHA,B. Bogdanović,25
+62,Marc Gasol,Nov 8 2016,MEM,DEN,V. Carter,3
+63,Eric Bledsoe,Nov 2 2016,PHO,POR,unassisted,25
+64,John Henson,Oct 29 2016,ATL,BRK,unassisted,1
+65,J.J. Redick,Mar 24 2016,LAC,POR,C. Paul,20
+66,Emmanuel Mudiay,Mar 23 2016,DEN,GSW,unassisted,36
+67,Gordon Hayward,Feb 9 2016,UTA,DAL,unassisted,17
+68,Joe Johnson,Feb 8 2016,BRK,DEN,M. Brown,27
+69,Nikola Vučević,Feb 7 2016,ORL,ATL,E. Payton,17
+70,Avery Bradley,Feb 5 2016,BOS,CLE,I. Thomas,23
+71,Deron Williams,Jan 5 2016,DAL,SAC,D. Harris,22
+72,Cory Joseph,Nov 28 2015,TOR,WAS,unassisted,24
+73,Nikola Vučević,Nov 11 2015,ORL,LAL,T. Harris,19
+74,LeBron James,May 10 2015 p,CLE,WAS,M. Dellavedova,21
+75,Paul Pierce,May 9 2015 p,WAS,ATL,unassisted,21
+76,Derrick Rose,May 8 2015 p,WAS,CLE,M. Dunleavy,26
+77,Jerryd Bayless,Apr 25 2015 p,ATL,WAS,J. Dudley,1
+78,Marcus Smart,Apr 4 2015,BOS,TOR,unassisted,1
+79,Khris Middleton,Mar 24 2015,ATL,MIA,Z. Pachulia,24
+80,Tyler Zeller,Mar 4 2015,BOS,UTA,M. Smart,1
+81,DeMarcus Cousins,Feb 8 2015,SAC,PHO,B. McLemore,19
+82,Anthony Davis,Feb 6 2015,NOP,OKC,T. Evans,29
+83,James Harden,Jan 23 2015,HOU,PHO,unassisted,20
+84,Khris Middleton,Dec 15 2014,ATL,PHO,J. Dudley,25
+85,Tobias Harris,Dec 13 2014,ORL,ATL,unassisted,14
+86,Bradley Beal,Dec 10 2014,WAS,ORL,A. Miller,1
+87,Blake Griffin,Dec 8 2014,LAC,PHO,unassisted,25
+88,Kemba Walker,Dec 5 2014,CHA,NYK,unassisted,1
+89,Monta Ellis,Dec 3 2014,DAL,ATL,unassisted,18
+90,Solomon Hill,Nov 19 2014,IND,CHA,unassisted,0
+91,Trey Burke,Nov 14 2014,UTA,NYK,unassisted,18
+92,Courtney Lee,Nov 13 2014,MEM,SAC,V. Carter,1
+93,Lance Stephenson,Nov 7 2014,CHA,ATL,M. Williams,32
+94,Gordon Hayward,Nov 5 2014,UTA,CLE,unassisted,20
+95,Tobias Harris,Nov 5 2014,ORL,GSW,E. Fournier,20
+96,Damian Lillard,May 2 2014 p,POR,HOU,N. Batum,25
+97,Vince Carter,Apr 26 2014 p,DAL,SAS,J. Calderón,22
+98,Chris Douglas-Roberts,Apr 14 2014,CHA,ATL,J. McRoberts,6
+99,Dion Waiters,Mar 26 2014,CLE,DET,L. Deng,19
+100,Dirk Nowitzki,Feb 24 2014,DAL,NYK,unassisted,19
+101,Tobias Harris,Feb 7 2014,ORL,OKC,M. Harkless,2
+102,Randy Foye,Feb 3 2014,DEN,LAC,unassisted,30
+103,Evan Turner,Jan 29 2014,GSW,BOS,unassisted,7
+104,Taj Gibson,Jan 20 2014,WAS,LAL,M. Dunleavy,2
+105,Andre Iguodala,Jan 3 2014,GSW,ATL,S. Curry,26
+106,Joe Johnson,Jan 2 2014,BRK,OKC,unassisted,19
+107,Jeff Teague,Dec 26 2013,ATL,CLE,unassisted,20
+108,Evan Turner,Dec 20 2013,GSW,BRK,unassisted,2
+109,Kemba Walker,Dec 18 2013,CHA,TOR,J. McRoberts,18
+110,Al Horford,Dec 13 2013,ATL,WAS,P. Antić,11
+111,Monta Ellis,Dec 7 2013,DAL,POR,J. Calderón,21
+112,Joe Johnson,Nov 15 2013,BRK,PHO,unassisted,1
+113,Andre Iguodala,Nov 14 2013,GSW,OKC,K. Thompson,16
+114,Jeff Green,Nov 9 2013,BOS,MIA,G. Wallace,24
+115,LeBron James,May 22 2013 p,MIA,IND,unassisted,1
+116,James Harden,Apr 9 2013,HOU,PHO,unassisted,25
+117,Jeff Green,Mar 27 2013,BOS,CLE,A. Bradley,0
+118,Monta Ellis,Feb 27 2013,ATL,HOU,B. Jennings,27
+119,Joe Johnson,Feb 19 2013,BRK,ATL,unassisted,14
+120,LaMarcus Aldridge,Jan 29 2013,POR,DAL,W. Matthews,18
+121,DeMar DeRozan,Jan 24 2013,TOR,ORL,unassisted,22
+122,Jordan Crawford,Jan 21 2013,WAS,POR,M. Webster,31
+123,James Johnson,Dec 28 2012,SAC,NYK,J. Salmons,25
+124,J.R. Smith,Dec 26 2012,NYK,PHO,J. Kidd,21
+125,Joe Johnson,Dec 14 2012,BRK,DET,unassisted,23
+126,Mo Williams,Dec 12 2012,UTA,SAS,unassisted,27
+127,J.R. Smith,Dec 5 2012,NYK,CHA,unassisted,18
+128,Brandon Jennings,Nov 3 2012,ATL,CLE,M. Dunleavy,26
+129,Tony Parker,Nov 1 2012,SAS,OKC,D. Green,21
+130,LaMarcus Aldridge,Apr 6 2012,POR,DAL,unassisted,17
+131,Luol Deng,Mar 24 2012,WAS,TOR,unassisted,2
+132,Derrick Rose,Mar 7 2012,WAS,ATL,unassisted,20
+133,Luke Ridnour,Feb 22 2012,LAL,UTA,J. Barea,8
+134,Kevin Love,Jan 20 2012,LAL,LAC,L. Ridnour,28
+135,Kevin Durant,Dec 29 2011,OKC,DAL,T. Sefolosha,28
+136,Nicolas Batum,Mar 25 2011,POR,SAS,A. Miller,0
+137,Jameer Nelson,Mar 18 2011,ORL,DEN,unassisted,26
+138,Al Jefferson,Mar 9 2011,UTA,TOR,unassisted,2
+139,Channing Frye,Feb 27 2011,PHO,IND,S. Nash,23
+140,Stephen Jackson,Feb 12 2011,CHA,ATL,unassisted,19
+141,Arron Afflalo,Feb 10 2011,DEN,DAL,C. Billups,19
+142,Antonio McDyess,Feb 3 2011,SAS,LAL,unassisted,2
+143,Kevin Durant,Jan 22 2011,OKC,NYK,unassisted,25
+144,Tyreke Evans,Dec 29 2010,SAC,MEM,D. Cousins,50
+145,Mike Dunleavy,Dec 20 2010,IND,NOP,unassisted,1
+146,Manu Ginóbili,Dec 15 2010,SAS,ATL,unassisted,17
+147,Andrew Bogut,Dec 8 2010,ATL,IND,L. Mbah a Moute,2
+148,Derek Fisher,Dec 8 2010,LAL,LAC,unassisted,3
+149,Carmelo Anthony,Nov 26 2010,DEN,WAS,unassisted,23
+150,Mo Williams,Nov 24 2010,CLE,ATL,unassisted,15
+151,Rudy Gay,Nov 20 2010,MEM,MIA,unassisted,13
+152,Metta World Peace,May 27 2010 p,LAL,PHO,unassisted,0
+153,Paul Pierce,Apr 23 2010 p,BOS,MIA,unassisted,21
+154,Carmelo Anthony,Mar 26 2010,DEN,TOR,C. Billups,18
+155,Josh Smith,Mar 24 2010,ATL,ORL,unassisted,0
+156,Joe Johnson,Mar 19 2010,ATL,CHA,unassisted,21
+157,James Posey,Jan 22 2010,NOP,LAL,unassisted,0
+158,Jamal Crawford,Jan 15 2010,ATL,PHO,M. Bibby,28
+159,Sundiata Gaines,Jan 14 2010,UTA,CLE,R. Price,26
+160,Gerald Wallace,Jan 9 2010,CHA,MEM,unassisted,0
+161,Kobe Bryant,Jan 1 2010,LAL,SAC,P. Gasol,25
+162,Baron Davis,Dec 27 2009,LAC,BOS,R. Butler,22
+163,Kobe Bryant,Dec 16 2009,LAL,ATL,unassisted,15
+164,Kobe Bryant,Dec 4 2009,LAL,MIA,unassisted,27
+165,Kevin Garnett,Nov 22 2009,BOS,NYK,P. Pierce,19
+166,Dirk Nowitzki,Nov 16 2009,DAL,ATL,J. Kidd,18
+167,Damien Wilkins,Oct 28 2009,LAL,BRK,unassisted,9
+168,LeBron James,May 22 2009 p,CLE,ORL,M. Williams,25
+169,Glen Davis,May 10 2009 p,BOS,ORL,P. Pierce,21
+170,Caron Butler,Apr 10 2009,WAS,TOR,unassisted,20
+171,Rasual Butler,Mar 31 2009,NOP,SAC,D. Brown,25
+172,Andre Iguodala,Mar 17 2009,GSW,LAL,unassisted,25
+173,Steve Novak,Mar 15 2009,LAC,BRK,B. Davis,24
+174,Dwyane Wade,Mar 9 2009,MIA,WAS,unassisted,24
+175,Devin Harris,Feb 23 2009,BRK,GSW,unassisted,43
+176,Caron Butler,Feb 8 2009,WAS,IND,unassisted,18
+177,LeBron James,Jan 23 2009,CLE,GSW,unassisted,19
+178,Jeff Green,Jan 21 2009,OKC,GSW,R. Westbrook,16
+179,Dirk Nowitzki,Jan 19 2009,DAL,GSW,unassisted,17
+180,Chris Paul,Jan 19 2009,NOP,IND,J. Posey,28
+181,Danny Granger,Jan 7 2009,IND,PHO,M. Dunleavy,27
+182,Tony Parker,Jan 3 2009,SAS,GSW,unassisted,15
+183,Vince Carter,Jan 2 2009,BRK,ATL,unassisted,33
+184,Roger Mason,Dec 25 2008,SAS,PHO,T. Parker,22
+185,Devin Harris,Dec 23 2008,BRK,IND,unassisted,22
+186,Troy Murphy,Dec 2 2008,IND,LAL,unassisted,1
+187,Larry Hughes,Nov 24 2008,WAS,UTA,unassisted,22
+188,Brandon Roy,Nov 6 2008,POR,HOU,S. Blake,31
+189,Rudy Gay,Oct 31 2008,MEM,ORL,K. Lowry,18
+190,Ramon Sessions,Apr 2 2008,ATL,WAS,A. Bogut,20
+191,Michael Redd,Feb 26 2008,ATL,CLE,unassisted,27
+192,DeShawn Stevenson,Feb 25 2008,WAS,NOP,unassisted,25
+193,Leon Powe,Feb 8 2008,BOS,LAL,unassisted,0
+194,Peja Stojaković,Feb 6 2008,NOP,PHO,unassisted,22
+195,Kevin Martin,Jan 27 2008,SAC,OKC,unassisted,14
+196,Hedo Türkoğlu,Jan 27 2008,ORL,BOS,unassisted,25
+197,Rashard Lewis,Jan 21 2008,ORL,DET,unassisted,12
+198,Jerry Stackhouse,Jan 12 2008,DAL,LAC,J. Terry,26
+199,Linas Kleiza,Dec 23 2007,DEN,SAC,unassisted,22
+200,Dwyane Wade,Dec 22 2007,MIA,UTA,unassisted,20
+201,Andre Iguodala,Dec 22 2007,GSW,MEM,unassisted,20
+202,Rudy Gay,Dec 19 2007,MEM,SAS,unassisted,27
+203,Joe Johnson,Dec 6 2007,ATL,LAL,unassisted,22
+204,Travis Outlaw,Dec 3 2007,POR,MEM,unassisted,6
+205,Ray Allen,Nov 24 2007,BOS,CHA,P. Pierce,29
+206,Kevin Durant,Nov 16 2007,OKC,ATL,E. Watson,28
+207,Kevin Garnett,Mar 25 2007,LAL,POR,T. Hassell,15
+208,Gilbert Arenas,Mar 21 2007,WAS,OKC,unassisted,0
+209,Steve Francis,Mar 10 2007,NYK,WAS,unassisted,26
+210,Desmond Mason,Feb 7 2007,NOP,DEN,unassisted,5
+211,Tyronn Lue,Feb 4 2007,ATL,BRK,unassisted,22
+212,Vince Carter,Jan 29 2007,BRK,UTA,unassisted,35
+213,Eddie Jones,Jan 24 2007,MEM,UTA,unassisted,22
+214,Monta Ellis,Jan 24 2007,GSW,BRK,B. Davis,17
+215,Gilbert Arenas,Jan 15 2007,WAS,UTA,unassisted,25
+216,Kevin Garnett,Jan 5 2007,LAL,GSW,T. Hassell,15
+217,Gilbert Arenas,Jan 3 2007,WAS,ATL,unassisted,32
+218,David Lee,Dec 20 2006,NYK,CHA,J. Crawford,0
+219,T.J. Ford,Dec 20 2006,TOR,LAC,unassisted,12
+220,Stephon Marbury,Dec 18 2006,NYK,UTA,unassisted,0
+221,Paul Pierce,Dec 9 2006,BOS,BRK,unassisted,22
+222,James Posey,Dec 2 2006,MIA,MEM,J. Williams,26
+223,Luke Ridnour,Dec 1 2006,OKC,IND,unassisted,3
+224,Delonte West,Nov 8 2006,BOS,CHA,P. Pierce,22
+225,Kobe Bryant,Apr 30 2006 p,LAL,PHO,unassisted,17
+226,Kevin Martin,Apr 28 2006 p,SAC,SAS,M. Bibby,0
+227,Josh Childress,Apr 5 2006,ATL,LAL,Z. Pachulia,0
+228,Jason Richardson,Mar 23 2006,GSW,DAL,unassisted,24
+229,Damon Jones,Mar 8 2006,CLE,TOR,L. James,23
+230,Paul Pierce,Mar 7 2006,BOS,WAS,unassisted,18
+231,David West,Feb 13 2006,NOP,WAS,D. Mason,21
+232,Pau Gasol,Feb 13 2006,MEM,GSW,unassisted,4
+233,Ray Allen,Jan 22 2006,OKC,PHO,unassisted,35
+234,Andre Iguodala,Jan 22 2006,GSW,LAL,unassisted,10
+235,Ben Gordon,Jan 18 2006,WAS,NYK,unassisted,22
+236,Andrew Bogut,Dec 20 2005,ATL,SAS,T. Kukoč,8
+237,Bonzi Wells,Dec 13 2005,SAC,LAL,B. Miller,24
+238,Mo Williams,Dec 2 2005,ATL,WAS,unassisted,27
+239,Jason Terry,Nov 28 2005,DAL,TOR,M. Daniels,9
+240,Nate Robinson,Nov 26 2005,NYK,GSW,S. Marbury,23
+241,Mo Williams,Nov 12 2005,ATL,IND,B. Simmons,29
+242,Pau Gasol,Nov 12 2005,MEM,ATL,unassisted,0
+243,Ricky Davis,Nov 9 2005,BOS,MEM,P. Pierce,15
+244,Richard Hamilton,Nov 4 2005,DET,BOS,T. Prince,17
+245,Gilbert Arenas,May 4 2005 p,WAS,WAS,unassisted,14
+246,Mike Miller,Apr 18 2005,MEM,SAS,J. Williams,22
+247,Mike Sweetney,Apr 10 2005,NYK,IND,unassisted,1
+248,Derek Fisher,Mar 25 2005,GSW,ATL,J. Richardson,28
+249,Dwyane Wade,Mar 15 2005,MIA,NYK,unassisted,18
+250,Mike Bibby,Mar 8 2005,SAC,MEM,P. Stojaković,33
+251,Tim Duncan,Feb 28 2005,SAS,CLE,T. Parker,19
+252,Nick Van Exel,Feb 14 2005,POR,CHA,D. Anderson,29
+253,Tim Thomas,Feb 13 2005,NYK,CHA,K. Thomas,23
+254,Scott Padgett,Jan 21 2005,HOU,NYK,unassisted,6
+255,Mehmet Okur,Jan 10 2005,UTA,SAS,unassisted,0
+256,Quentin Richardson,Dec 20 2004,PHO,DEN,unassisted,0
+257,Chris Webber,Dec 14 2004,SAC,ATL,M. Bibby,26
+258,Shareef Abdur-Rahim,Dec 9 2004,POR,BOS,D. Anderson,25
+259,Dwyane Wade,Nov 19 2004,MIA,UTA,unassisted,20
+260,Jamal Crawford,Nov 18 2004,NYK,HOU,A. Hardaway,26
+261,Allen Iverson,Nov 12 2004,GSW,IND,unassisted,14
+262,Paul Pierce,Nov 10 2004,BOS,POR,unassisted,21
+263,Derek Fisher,May 13 2004 p,LAL,SAS,G. Payton,16
+264,Kobe Bryant,Apr 14 2004,LAL,POR,G. Payton,26
+265,Chris Wilcox,Apr 13 2004,LAC,PHO,unassisted,0
+266,Gilbert Arenas,Apr 9 2004,WAS,GSW,unassisted,27
+267,Carlos Arroyo,Mar 27 2004,UTA,DEN,R. Bell,15
+268,Jamaal Magloire,Mar 23 2004,NOP,DET,unassisted,11
+269,Jamal Mashburn,Mar 3 2004,NOP,WAS,unassisted,25
+270,Jim Jackson,Feb 6 2004,HOU,WAS,C. Mobley,22
+271,Antoine Walker,Jan 27 2004,DAL,OKC,M. Finley,21
+272,Kobe Bryant,Dec 19 2003,LAL,DEN,D. George,21
+273,Glen Rice,Dec 10 2003,LAC,DAL,unassisted,15
+274,Kevin Garnett,Dec 7 2003,LAL,LAC,unassisted,21
+275,Ronald Murray,Nov 11 2003,OKC,LAL,unassisted,13
+276,Stephon Marbury,Apr 19 2003 p,PHO,SAS,unassisted,25
+277,Kobe Bryant,Apr 4 2003,LAL,MEM,unassisted,21
+278,Shareef Abdur-Rahim,Apr 3 2003,ATL,WAS,A. Henderson,17
+279,Chauncey Billups,Mar 9 2003,DET,GSW,unassisted,28
+280,Robert Horry,Mar 5 2003,LAL,IND,unassisted,23
+281,Andrei Kirilenko,Mar 2 2003,UTA,BRK,unassisted,0
+282,Wally Szczerbiak,Feb 11 2003,LAL,DAL,A. Peeler,17
+283,Tim Duncan,Jan 24 2003,SAS,UTA,unassisted,16
+284,Jermaine O'Neal,Jan 18 2003,IND,DET,E. Strickland,19
+285,Jason Terry,Dec 27 2002,ATL,SAS,unassisted,15
+286,Robert Traylor,Dec 20 2002,NOP,OKC,unassisted,0
+287,Rasheed Wallace,Dec 20 2002,POR,GSW,S. Pippen,16
+288,Ryan Bowen,Nov 23 2002,DEN,PHO,D. Harvey,0
+289,James Posey,Nov 22 2002,DEN,LAC,D. Harvey,17
+290,David Wesley,Nov 19 2002,NOP,GSW,unassisted,8
+291,Jerry Stackhouse,Nov 8 2002,WAS,LAL,B. Russell,2
+292,Tim Duncan,Nov 4 2002,SAS,MEM,S. Kerr,13
+293,Robert Horry,May 26 2002 p,LAL,SAC,unassisted,25
+294,Jeff McInnis,Mar 29 2002,LAC,PHO,unassisted,20
+295,Lamond Murray,Mar 19 2002,CLE,BRK,A. Miller,24
+296,Jalen Rose,Mar 16 2002,WAS,HOU,unassisted,15
+297,Jon Barry,Mar 7 2002,DET,WAS,D. Jones,24
+298,Eddie Jones,Mar 5 2002,MIA,DET,unassisted,15
+299,Kobe Bryant,Feb 22 2002,LAL,CHA,unassisted,18
+300,Lee Nailon,Feb 1 2002,CHA,HOU,E. Campbell,20
+301,Michael Jordan,Jan 31 2002,WAS,CLE,P. Jones,15
+302,Moochie Norris,Jan 8 2002,HOU,NYK,S. Francis,23
+303,Anfernee Hardaway,Dec 9 2001,PHO,TOR,R. Rogers,0
+304,Paul Pierce,Nov 27 2001,BOS,MIA,unassisted,0
+305,Moochie Norris,Nov 4 2001,HOU,PHO,S. Francis,25
+306,Shammond Williams,Mar 1 2001,OKC,CLE,D. Mason,20
+307,Antonio McDyess,Jan 27 2001,DEN,DAL,unassisted,0
+308,Howard Eisley,Jan 17 2001,DAL,CHA,D. Nowitzki,24
+309,Elton Brand,Jan 4 2001,WAS,WAS,B. Drew,19
+310,Vin Baker,Dec 30 2000,OKC,CHA,B. Barry,19
+311,Milt Palacio,Dec 28 2000,BOS,BRK,unassisted,30
+312,Ray Allen,Dec 21 2000,ATL,BRK,unassisted,15
+313,Moochie Norris,Dec 14 2000,HOU,GSW,C. Mobley,35
+314,Paul Pierce,Dec 10 2000,BOS,DEN,M. Palacio,18
+315,Sam Cassell,Nov 28 2000,ATL,MIA,G. Robinson,26
+316,Michael Finley,Nov 10 2000,DAL,SAS,unassisted,22
+317,Elden Campbell,Apr 10 2000,CHA,WAS,A. Mason,19
+318,Kevin Garnett,Apr 10 2000,LAL,DET,S. Mitchell,12
+319,Tim Hardaway,Apr 9 2000,MIA,NYK,unassisted,25
+320,Mike Bibby,Apr 4 2000,MEM,HOU,unassisted,0
+321,Charles Oakley,Mar 28 2000,TOR,CLE,V. Carter,24
+322,Erick Strickland,Mar 21 2000,DAL,SAS,unassisted,0
+323,Vince Carter,Mar 8 2000,TOR,LAC,T. McGrady,31
+324,Pat Garrity,Mar 6 2000,ORL,WAS,unassisted,19
+325,Keith Van Horn,Mar 2 2000,BRK,DAL,unassisted,16
+326,Vince Carter,Mar 1 2000,TOR,BOS,unassisted,23
+327,Larry Hughes,Feb 9 2000,GSW,BRK,unassisted,0
+328,Glenn Robinson,Feb 3 2000,ATL,UTA,V. Del Negro,26
+329,Tim Thomas,Jan 29 2000,ATL,OKC,V. Del Negro,15
+330,Michael Dickerson,Jan 27 2000,MEM,BRK,D. Scott,16
+331,Chuck Person,Jan 26 2000,OKC,BRK,E. Davis,29
+332,Malik Sealy,Jan 17 2000,LAL,IND,S. Mitchell,25
+333,Terry Mills,Dec 30 1999,DET,ATL,G. Hill,23
+334,Malik Sealy,Dec 27 1999,LAL,ORL,unassisted,0
+335,Eric Snow,Dec 20 1999,GSW,DET,A. McKie,16
+336,Aaron McKie,Dec 3 1999,GSW,CLE,unassisted,12
+337,Hersey Hawkins,Apr 15 1999,OKC,SAC,G. Payton,24
+338,Lindsey Hunter,Apr 9 1999,DET,IND,G. Hill,27
+339,Jerry Stackhouse,Mar 21 1999,DET,UTA,G. Hill,27
+340,Darrell Armstrong,Mar 15 1999,ORL,GSW,unassisted,0
+341,Sean Elliott,Mar 12 1999,SAS,PHO,unassisted,21
+342,Keith Van Horn,Mar 1 1999,BRK,BOS,unassisted,8
+343,Randy Brown,Feb 28 1999,WAS,TOR,B. Barry,19
+344,Tom Hammonds,Apr 18 1998,LAL,ATL,unassisted,18
+345,Antoine Walker,Apr 3 1998,BOS,DET,unassisted,19
+346,Voshon Lenard,Mar 15 1998,MIA,ORL,B. Barry,26
+347,David Robinson,Mar 10 1998,SAS,BRK,C. Person,0
+348,Michael Finley,Feb 13 1998,DAL,IND,D. Scott,27
+349,Michael Jordan,Feb 13 1998,WAS,ATL,unassisted,15
+350,Antoine Walker,Jan 28 1998,BOS,WAS,C. Billups,17
+351,Kenny Anderson,Jan 20 1998,POR,CLE,unassisted,20
+352,Glen Rice,Dec 22 1997,CHA,TOR,unassisted,0
+353,Chris Webber,Dec 20 1997,WAS,TOR,unassisted,0
+354,Reggie Miller,Dec 7 1997,IND,PHO,unassisted,13
+355,Rasheed Wallace,Nov 24 1997,POR,TOR,unassisted,0
+356,David Robinson,Nov 11 1997,SAS,LAL,unassisted,0
+357,Tim Hardaway,Nov 1 1997,MIA,WAS,unassisted,12
+358,Michael Jordan,Jun 1 1997 p,WAS,UTA,unassisted,19
+359,John Stockton,May 29 1997 p,UTA,HOU,B. Russell,25
+360,Eddie Johnson,May 25 1997 p,HOU,UTA,M. Maloney,27
+361,Shaquille O'Neal,Apr 13 1997,LAL,UTA,unassisted,10
+362,Matt Geiger,Apr 5 1997,CHA,GSW,unassisted,0
+363,Wayman Tisdale,Mar 2 1997,PHO,DAL,J. Kidd,0
+364,John Starks,Feb 18 1997,NYK,PHO,unassisted,23
+365,Michael Jordan,Feb 11 1997,WAS,CHA,S. Pippen,24
+366,Jerry Stackhouse,Jan 29 1997,GSW,TOR,A. Iverson,16
+367,Elliot Perry,Jan 25 1997,ATL,IND,unassisted,11
+368,Reggie Miller,Dec 13 1996,IND,BOS,V. Askew,24
+369,Rick Fox,Dec 11 1996,BOS,TOR,D. Radja,23
+370,Voshon Lenard,Dec 10 1996,MIA,CLE,unassisted,16
+371,Kenny Anderson,Nov 7 1996,POR,LAL,unassisted,15
+372,Hakeem Olajuwon,Apr 13 1996,HOU,DAL,R. Horry,5
+373,Vernon Maxwell,Apr 6 1996,GSW,ATL,unassisted,19
+374,Mookie Blaylock,Mar 31 1996,ATL,BOS,C. Ehlo,24
+375,Greg Minor,Mar 22 1996,BOS,DEN,unassisted,8
+376,Dennis Scott,Feb 21 1996,ORL,IND,unassisted,18
+377,John Stockton,Jan 8 1996,UTA,MIA,A. Keefe,22
+378,Blue Edwards,Jan 5 1996,MEM,GSW,B. Reeves,19
+379,Sam Cassell,Dec 30 1995,HOU,DAL,unassisted,26
+380,Tony Dumas,Dec 28 1995,DAL,MEM,J. Kidd,12
+381,Terrell Brandon,Dec 23 1995,CLE,IND,unassisted,5
+382,John Stockton,Dec 21 1995,UTA,CLE,unassisted,24
+383,Arvydas Sabonis,Dec 10 1995,POR,HOU,unassisted,7
+384,Michael Finley,Nov 25 1995,PHO,LAL,unassisted,14
+385,Anfernee Hardaway,Nov 22 1995,ORL,MEM,unassisted,6
+386,James Robinson,Nov 21 1995,POR,LAL,A. McKie,23
+387,Robert Horry,Nov 15 1995,HOU,TOR,C. Drexler,26
+388,Chris King,Nov 5 1995,MEM,LAL,unassisted,0
+389,Rik Smits,May 29 1995 p,IND,ORL,D. McKey,14
+390,Clyde Drexler,Apr 9 1995,HOU,DEN,unassisted,30
+391,Chuck Person,Apr 6 1995,SAS,SAC,S. Elliott,20
+392,Michael Jordan,Mar 25 1995,WAS,ATL,unassisted,14
+393,Sean Elliott,Mar 9 1995,SAS,CLE,D. Rivers,0
+394,Nick Van Exel,Jan 20 1995,LAL,BOS,unassisted,26
+395,Dee Brown,Jan 15 1995,BOS,SAC,unassisted,0
+396,Pooh Richardson,Dec 7 1994,LAC,ATL,L. Murray,20
+397,Clyde Drexler,Dec 4 1994,POR,ATL,J. Robinson,26
+398,Tony Smith,Nov 18 1994,LAL,CLE,S. Threatt,27
+399,Terry Mills,Nov 17 1994,DET,DEN,unassisted,20
+400,Toni Kukoč,May 13 1994 p,WAS,NYK,P. Myers,19
+401,Chris Mills,Apr 16 1994,CLE,ATL,unassisted,10
+402,Donald Royal,Mar 16 1994,ORL,DAL,unassisted,17
+403,Toni Kukoč,Jan 21 1994,WAS,IND,S. Pippen,25
+404,Latrell Sprewell,Jan 19 1994,GSW,ATL,A. Johnson,23
+405,Dana Barros,Jan 14 1994,GSW,IND,J. Hornacek,16
+406,Vernon Maxwell,Dec 21 1993,HOU,SAS,unassisted,20
+407,Alonzo Mourning,Dec 9 1993,CHA,CLE,L. Johnson,10
+408,Horace Grant,Nov 19 1993,WAS,LAL,unassisted,0
+409,Elden Campbell,Nov 16 1993,LAL,LAC,J. Worthy,10
+410,Mark Aguirre,Nov 5 1993,LAC,POR,M. Jackson,25
+411,Michael Jordan,May 17 1993 p,WAS,CLE,unassisted,18
+412,Mahmoud Abdul-Rauf,Apr 25 1993,DEN,PHO,unassisted,23
+413,Charles Barkley,Apr 22 1993,PHO,POR,unassisted,10
+414,Danny Ferry,Apr 10 1993,CLE,BRK,M. Price,17
+415,Dan Majerle,Apr 6 1993,PHO,LAL,O. Miller,33
+416,Jon Koncak,Jan 19 1993,ATL,CHA,unassisted,0
+417,Ron Anderson,Jan 8 1993,GSW,WSB,unassisted,0
+418,Gary Grant,Jan 2 1993,LAC,NYK,J. Williams,21
+419,Mahmoud Abdul-Rauf,Nov 27 1992,DEN,LAC,unassisted,55
+420,Michael Jordan,Nov 11 1992,WAS,DET,unassisted,26
+421,Maurice Cheeks,Mar 27 1992,ATL,LAL,unassisted,19
+422,Alexander Volkov,Mar 23 1992,ATL,GSW,D. Ferrell,0
+423,Hakeem Olajuwon,Feb 26 1992,HOU,GSW,O. Thorpe,21
+424,Ricky Pierce,Feb 20 1992,OKC,LAL,N. McMillan,20
+425,Pooh Richardson,Feb 13 1992,LAL,DET,T. Campbell,23
+426,Detlef Schrempf,Feb 11 1992,IND,ORL,unassisted,18
+427,Sam Perkins,Jan 15 1992,LAL,CHA,unassisted,10
+428,Larry Johnson,Jan 14 1992,CHA,OKC,K. Gill,17
+429,Craig Ehlo,Dec 23 1991,CLE,UTA,B. Daugherty,25
+430,Johnny Dawkins,Dec 6 1991,GSW,POR,R. Anderson,27
+431,Sedale Threatt,Nov 27 1991,LAL,MIA,unassisted,17
+432,Tony Campbell,Apr 21 1991,LAL,WSB,unassisted,17
+433,Robert Parish,Mar 29 1991,BOS,CLE,B. Shaw,10
+434,Brad Davis,Mar 13 1991,DAL,OKC,unassisted,0
+435,Trent Tucker,Mar 6 1991,NYK,DET,C. Oakley,25
+436,John Morton,Mar 5 1991,CLE,OKC,unassisted,15
+437,Rolando Blackman,Mar 4 1991,DAL,BRK,,
+438,Travis Mays,Feb 12 1991,SAC,LAC,B. Wennington,17
+439,Bill Laimbeer,Jan 25 1991,DET,DAL,unassisted,10
+440,Fred Roberts,Dec 7 1990,ATL,ATL,unassisted,18
+441,Charles Barkley,Dec 4 1990,GSW,ATL,,
+442,Kevin Johnson,Nov 21 1990,PHO,WAS,unassisted,10
+443,Michael Jordan,Nov 13 1990,WAS,UTA,unassisted,18
+444,Brian Shaw,Nov 6 1990,BOS,WAS,unassisted,0
+445,Ken Norman,Nov 4 1990,LAC,GSW,unassisted,20
+446,John Paxson,Apr 7 1990,WAS,DAL,M. Jordan,24
+447,Sam Mitchell,Mar 30 1990,LAL,DAL,unassisted,10
+448,Glen Rice,Mar 5 1990,MIA,UTA,S. Douglas,21
+449,Lester Conner,Feb 21 1990,BRK,LAL,unassisted,12
+450,Byron Scott,Feb 20 1990,LAL,SAS,unassisted,24
+451,Willie Anderson,Feb 17 1990,SAS,HOU,,15
+452,Derrick McKey,Feb 3 1990,OKC,WSB,unassisted,17
+453,Trent Tucker,Jan 15 1990,NYK,WAS,M. Jackson,26
+454,Craig Ehlo,Dec 11 1989,CLE,UTA,L. Nance,30
+455,Chuck Person,Dec 8 1989,IND,WAS,unassisted,20
+456,Dell Curry,Nov 17 1989,CHA,GSW,M. Bogues,24
+457,John Stockton,Nov 15 1989,UTA,WAS,unassisted,0
+458,Michael Jordan,May 7 1989 p,WAS,CLE,unassisted,15
+459,Derrick McKey,May 5 1989 p,OKC,HOU,N. McMillan,0
+460,Adrian Dantley,Apr 2 1989,DAL,MIA,unassisted,18
+461,Rik Smits,Mar 27 1989,IND,CLE,,
+462,Magic Johnson,Mar 26 1989,LAL,PHO,unassisted,15
+463,Doc Rivers,Mar 19 1989,ATL,LAL,J. Battle,22
+464,Rory Sparrow,Feb 17 1989,MIA,CHA,unassisted,15
+465,Kurt Rambis,Jan 26 1989,CHA,UTA,unassisted,0
+466,Hersey Hawkins,Jan 7 1989,GSW,HOU,M. Gminski,25
+467,Scottie Pippen,Dec 29 1988,WAS,NYK,unassisted,10
+468,Kurt Rambis,Dec 23 1988,CHA,WAS,unassisted,0
+469,Jay Humphries,Dec 11 1988,ATL,LAL,unassisted,16
+470,Magic Johnson,Nov 15 1988,LAL,DEN,unassisted,25
+471,Mike Mitchell,Apr 21 1988,SAS,HOU,unassisted,15
+472,Charles Barkley,Apr 13 1988,GSW,WSB,A. King,29
+473,John Long,Apr 11 1988,IND,BRK,unassisted,18
+474,Ed Nealy,Mar 25 1988,SAS,DET,J. Sundvold,5
+475,Michael Adams,Mar 25 1988,DEN,LAL,unassisted,18
+476,Mark Jackson,Mar 1 1988,NYK,IND,unassisted,10
+477,Gerald Henderson,Feb 29 1988,GSW,WAS,unassisted,0
+478,Jerome Kersey,Feb 27 1988,POR,ATL,unassisted,30
+479,Reggie Theus,Feb 16 1988,SAC,ATL,unassisted,29
+480,Steve Stipanovich,Feb 11 1988,IND,GSW,unassisted,22
+481,Kelly Tripucka,Feb 4 1988,UTA,POR,unassisted,22
+482,Steve Harris,Jan 20 1988,GSW,BRK,unassisted,6
+483,Reggie Theus,Jan 2 1988,SAC,UTA,unassisted,17
+484,Clyde Drexler,Jan 1 1988,POR,GSW,unassisted,0
+485,Magic Johnson,Dec 11 1987,LAL,BOS,unassisted,22
+486,Tyrone Corbin,Dec 5 1987,CLE,LAL,unassisted,0
+487,Nate McMillan,Nov 20 1987,OKC,ATL,unassisted,5
+488,Darren Daye,Nov 18 1987,BOS,NYK,unassisted,0
+489,Rodney McCray,Nov 15 1987,HOU,OKC,unassisted,20
+490,Larry Bird,Nov 7 1987,BOS,WSB,D. Ainge,23
+491,Alvin Robertson,Feb 26 1987,SAS,GSW,J. Dawkins,26
+492,Jack Sikma,Feb 12 1987,ATL,OKC,unassisted,0
+493,Mike Sanders,Jan 24 1987,PHO,IND,unassisted,6
+494,Louis Orr,Jan 19 1987,NYK,BOS,unassisted,22
+495,Isiah Thomas,Dec 27 1986,DET,WSB,unassisted,22
+496,Danny Schayes,Dec 27 1986,DEN,SAS,,
+497,Patrick Ewing,Dec 25 1986,NYK,WAS,unassisted,10
+498,Darrell Griffith,Dec 16 1986,UTA,WSB,K. Tripucka,26
+499,Fat Lever,Nov 26 1986,DEN,WAS,unassisted,8
+500,Chuck Person,Nov 15 1986,IND,ATL,H. Williams,33
+501,Darrell Griffith,Nov 11 1986,UTA,DAL,R. Green,33
+502,Ralph Sampson,May 21 1986 p,HOU,LAL,R. McCray,10
+503,Dudley Bradley,Apr 18 1986 p,WSB,GSW,unassisted,27
+504,Julius Erving,Apr 6 1986,GSW,BOS,unassisted,28
+505,Joe Barry Carroll,Mar 23 1986,GSW,DEN,G. Ballard,21
+506,Julius Erving,Feb 28 1986,GSW,DAL,M. Cheeks,53
+507,Sam Perkins,Jan 13 1986,DAL,OKC,unassisted,6
+508,Hakeem Olajuwon,Jan 11 1986,HOU,WSB,unassisted,0
+509,Ricky Pierce,Dec 28 1985,ATL,CLE,unassisted,0
+510,Jim Paxson,Dec 13 1985,POR,GSW,unassisted,25
+511,Kiki Vandeweghe,Dec 10 1985,POR,GSW,,
+512,Karl Malone,Nov 25 1985,UTA,IND,unassisted,0
+513,Clark Kellogg,Nov 16 1985,IND,BOS,unassisted,5
+514,Dennis Johnson,Jun 5 1985 p,BOS,LAL,L. Bird,21
+515,Paul Mokeski,Apr 12 1985,ATL,BOS,,
+516,Bill Laimbeer,Apr 10 1985,DET,IND,K. Tripucka,16
+517,Walter Davis,Mar 7 1985,PHO,SAS,A. Scott,22
+518,Calvin Natt,Mar 2 1985,DEN,ATL,,22
+519,Larry Bird,Jan 29 1985,BOS,DET,unassisted,6
+520,Larry Bird,Jan 27 1985,BOS,POR,unassisted,20
+521,Bill Laimbeer,Jan 19 1985,DET,BRK,unassisted,10
+522,Mike Evans,Jan 18 1985,DEN,WSB,,10
+523,Greg Ballard,Jan 16 1985,WSB,UTA,D. Daye,22
+524,Kareem Abdul-Jabbar,Jan 6 1985,LAL,SAS,M. Cooper,15
+525,Kevin McHale,Dec 9 1984,BOS,ATL,unassisted,0
+526,Mike Gminski,Nov 3 1984,BRK,IND,unassisted,18
+527,Gus Williams,Apr 19 1984 p,OKC,DAL,D. Vranes,25
+528,Bill Laimbeer,Apr 10 1984,DET,IND,I. Thomas,15
+529,George Gervin,Mar 27 1984,SAS,GSW,unassisted,25
+530,Rolando Blackman,Feb 25 1984,DAL,UTA,unassisted,0
+531,Micheal Ray Richardson,Feb 4 1984,BRK,WAS,B. Willoughby,28
+532,Eddie Johnson,Feb 3 1984,SAC,BRK,unassisted,16
+533,Cliff Robinson,Jan 31 1984,CLE,DET,L. Shelton,25
+534,Pat Cummings,Jan 25 1984,DAL,GSW,B. Davis,10
+535,Howard Carter,Jan 20 1984,DEN,SAC,,32
+536,Ray Williams,Jan 14 1984,NYK,WAS,,
+537,Caldwell Jones,Dec 9 1983,HOU,WAS,unassisted,25
+538,Buck Williams,Nov 23 1983,BRK,PHO,D. Cook,10
+539,Terry Cummings,Nov 20 1983,LAC,CLE,B. Walton,0
+540,Orlando Woolridge,Nov 15 1983,WAS,DET,D. Corzine,20
+541,Sidney Moncrief,Nov 13 1983,ATL,OKC,,
+542,Robert Parish,Nov 8 1983,BOS,IND,unassisted,5
+543,Dan Roundfield,Oct 29 1983,ATL,DET,unassisted,18
+544,George Gervin,Apr 6 1983,SAS,GSW,unassisted,27
+545,Rory Sparrow,Mar 12 1983,NYK,POR,unassisted,28
+546,Larry Bird,Feb 26 1983,BOS,PHO,C. Maxwell,25
+547,Cliff Robinson,Feb 23 1983,CLE,GSW,unassisted,0
+548,Jay Vincent,Feb 2 1983,DAL,LAL,unassisted,12
+549,Joe Bryant,Jan 18 1983,HOU,WSB,unassisted,0
+550,Herb Williams,Dec 30 1982,IND,UTA,B. Carter,18
+551,Greg Ballard,Dec 27 1982,WSB,WAS,J. Ruland,20
+552,Dan Issel,Dec 27 1982,DEN,GSW,R. Williams,20
+553,Cliff Robinson,Dec 22 1982,CLE,IND,W. Free,12
+554,Lewis Lloyd,Dec 10 1982,GSW,OKC,L. Romar,24
+555,Frank Johnson,Nov 26 1982,WSB,IND,unassisted,18
+556,Gene Banks,Nov 26 1982,SAS,WAS,B. Willoughby,22
+557,Wes Matthews,Nov 9 1982,ATL,DEN,D. Roundfield,30
+558,Steve Hawes,Nov 6 1982,ATL,DET,R. Sparrow,22
+559,David Thompson,Nov 3 1982,OKC,SAS,G. Williams,28
+560,Sidney Moncrief,May 1 1982 p,ATL,GSW,unassisted,5
+561,Darnell Valentine,Mar 19 1982,POR,UTA,,15
+562,Johnny Moore,Mar 14 1982,SAS,WAS,E. Rains,22
+563,Gus Williams,Mar 12 1982,OKC,ATL,unassisted,20
+564,James Silas,Mar 5 1982,CLE,POR,,
+565,World B. Free,Feb 25 1982,GSW,DAL,unassisted,20
+566,Joe Barry Carroll,Feb 2 1982,GSW,LAL,,
+567,Sidney Moncrief,Jan 26 1982,ATL,LAL,unassisted,0
+568,Reggie Theus,Jan 23 1982,WAS,NYK,A. Gilmore,20
+569,Greg Ballard,Jan 10 1982,WSB,NYK,D. Collins,25
+570,World B. Free,Dec 2 1981,GSW,WAS,unassisted,12
+571,Rickey Green,Nov 20 1981,UTA,WAS,J. Hardy,22
+572,Sonny Parker,Nov 13 1981,GSW,HOU,unassisted,0
+573,Alex English,Mar 24 1981,DEN,SAS,unassisted,21
+574,James Bailey,Mar 13 1981,OKC,DET,unassisted,6
+575,Phil Ford,Feb 18 1981,SAC,BOS,S. Lacey,20
+576,Kelvin Ransey,Jan 29 1981,POR,LAC,unassisted,10
+577,Jamaal Wilkes,Jan 16 1981,LAL,BRK,N. Nixon,20
+578,Billy Ray Bates,Dec 30 1980,POR,GSW,K. Washington,0
+579,Micheal Ray Richardson,Nov 29 1980,NYK,POR,unassisted,25
+580,James Silas,Nov 29 1980,SAS,SAC,,
+581,Darwin Cook,Oct 31 1980,BRK,WSB,J. van Breda Kolff,20
+582,Jamaal Wilkes,Mar 27 1980,LAL,UTA,N. Nixon,20
+583,Ricky Sobers,Mar 5 1980,WAS,GSW,unassisted,28
+584,Brian Winters,Feb 6 1980,ATL,CLE,Q. Buckner,21
+585,Alex English,Jan 27 1980,IND,CLE,unassisted,0
+586,Walter Davis,Jan 17 1980,PHO,ATL,unassisted,14
+587,Greg Ballard,Jan 5 1980,WSB,UTA,W. Unseld,24
+588,Chris Ford,Dec 14 1979,BOS,ATL,C. Maxwell,30
+589,World B. Free,Dec 9 1979,LAC,POR,unassisted,22
+590,Kevin Grevey,Dec 8 1979,WSB,ATL,W. Unseld,15
+591,Micheal Ray Richardson,Dec 5 1979,NYK,WSB,unassisted,0
+592,Randy Smith,Nov 29 1979,CLE,NYK,unassisted,0
+593,Calvin Natt,Nov 18 1979,BRK,SAS,E. Jordan,0
+594,Moses Malone,Nov 13 1979,HOU,WAS,,
+595,Johnny Davis,Nov 10 1979,IND,GSW,M. Johnson,38
+596,Marques Johnson,Nov 3 1979,ATL,WAS,B. Winters,0
+597,Randy Smith,Nov 1 1979,CLE,DET,unassisted,20
+598,Walter Davis,Oct 28 1979,PHO,POR,A. Adams,18
+599,Kermit Washington,Oct 23 1979,POR,SAC,unassisted,0
+600,Kareem Abdul-Jabbar,Oct 12 1979,LAL,LAC,unassisted,18
+601,Larry Wright,May 20 1979 p,WSB,OKC,,
+602,Moses Malone,Mar 30 1979,HOU,SAS,,
+603,Ron Brewer,Mar 24 1979,POR,SAC,,
+604,Charles Johnson,Feb 13 1979,WSB,LAC,unassisted,25
+605,Clifford Ray,Jan 31 1979,GSW,GSW,J. Lucas,0
+606,Kermit Washington,Jan 17 1979,LAC,LAL,unassisted,0
+607,Tom Boswell,Jan 2 1979,DEN,SAC,unassisted,0
+608,George Johnson,Dec 3 1978,BRK,LAL,unassisted,0
+609,Marques Johnson,Oct 22 1978,ATL,GSW,J. Gianelli,0
+610,Foots Walker,Apr 7 1978,CLE,ATL,,18
+611,Jack Sikma,Mar 24 1978,OKC,IND,unassisted,25
+612,Fred Brown,Mar 11 1978,OKC,HOU,unassisted,0
+613,Lionel Hollins,Feb 26 1978,POR,WAS,unassisted,30
+614,John Williamson,Feb 12 1978,BRK,NYK,K. Porter,25
+615,Tom Henderson,Jan 8 1978,WSB,BRK,unassisted,15
+616,Lonnie Shelton,Dec 13 1977,NYK,ATL,unassisted,15
+617,Brian Winters,Dec 8 1977,ATL,GSW,,28
+618,Pete Maravich,Nov 24 1977,UTA,DEN,unassisted,0
+619,Jo Jo White,Apr 17 1977 p,BOS,GSW,unassisted,18
+620,Truck Robinson,Mar 22 1977,ATL,LAC,S. Hawes,17
+621,Quinn Buckner,Mar 12 1977,ATL,IND,,20
+622,John Drew,Mar 8 1977,ATL,GSW,L. Hudson,21
+623,Swen Nater,Feb 17 1977,ATL,GSW,D. Meyers,10
+624,Walt Frazier,Dec 18 1976,NYK,CLE,unassisted,0
+625,Artis Gilmore,Dec 17 1976,WAS,SAS,M. Johnson,0
+626,Ken Charles,Dec 14 1976,ATL,LAL,unassisted,20
+627,Brian Taylor,Nov 23 1976,SAC,NYK,,
+628,John Johnson,Nov 20 1976,HOU,SAC,J. Lucas,15
+629,Rich Jones,Oct 22 1976,BRK,GSW,J. van Breda Kolff,20
+630,Jim Cleamons,Apr 22 1976 p,CLE,WSB,unassisted,0
+631,World B. Free,Apr 2 1976,GSW,WSB,unassisted,22
+632,Elvin Hayes,Feb 29 1976,WSB,HOU,W. Unseld,20
+633,Curtis Perry,Feb 21 1976,PHO,HOU,unassisted,8
+634,Slick Watts,Feb 15 1976,OKC,DET,unassisted,28
+635,George Johnson,Feb 14 1976,GSW,DET,,
+636,Kareem Abdul-Jabbar,Jan 13 1976,LAL,WAS,unassisted,15
+637,Tom Burleson,Jan 9 1976,OKC,PHO,unassisted,0
+638,Bob McAdoo,Jan 6 1976,LAC,LAL,,24
+639,Jack Marin,Jan 5 1976,WAS,HOU,unassisted,12
+640,Mike Newlin,Nov 29 1975,HOU,GSW,,20
+641,Fred Carter,Nov 25 1975,GSW,GSW,unassisted,25
+642,Jim Brewer,Mar 16 1975,CLE,UTA,unassisted,0
+643,Tiny Archibald,Mar 6 1975,KCO,LAC,R. Behagen,30
+644,Phil Chenier,Feb 6 1975,WSB,GSW,,
+645,John Gianelli,Jan 30 1975,NYK,ATL,W. Frazier,0
+646,Jon McGlocklin,Jan 27 1975,ATL,UTA,M. Davis,20
+647,Walt Frazier,Jan 4 1975,NYK,CLE,E. Monroe,20
+648,Paul Westphal,Dec 14 1974,BOS,ATL,D. Nelson,30
+649,Charles Johnson,Oct 25 1974,GSW,POR,C. Ray,18
+650,Jo Jo White,Apr 12 1974 p,BOS,LAC,,
+651,Jim McMillian,Apr 6 1974 p,LAC,BOS,unassisted,0
+652,Fred Brown,Mar 23 1974,OKC,GSW,W. Hazzard,20
+653,Barry Clemens,Mar 15 1974,CLE,BOS,unassisted,28
+654,Rick Barry,Mar 7 1974,GSW,ATL,J. Mullins,24
+655,Jerry Sloan,Feb 15 1974,WAS,ATL,N. Van Lier,18
+656,George Trapp,Feb 5 1974,DET,POR,,25
+657,Bob Weiss,Feb 5 1974,WAS,BOS,B. Love,20
+658,Rick Barry,Jan 31 1974,GSW,HOU,C. Johnson,28
+659,Jerry West,Jan 18 1974,LAL,KCO,C. Hawkins,21
+660,Jim Price,Dec 18 1973,LAL,ATL,B. Bridges,25
+661,Jimmy Walker,Dec 16 1973,KCO,DET,D. Kojis,12
+662,Bob Love,Nov 24 1973,WAS,DET,N. Van Lier,22
+663,Howard Komives,Jan 18 1973,LAC,ATL,,
+664,Earl Monroe,Jan 12 1973,NYK,HOU,unassisted,10
+665,Dave DeBusschere,Dec 30 1972,NYK,WAS,E. Monroe,20
+666,Don May,Dec 27 1972,ATL,GSW,unassisted,10
+667,John Brisker,Nov 18 1972,OKC,POR,unassisted,20
+668,Rick Barry,Oct 16 1972,GSW,WAS,unassisted,0
+669,Dick Snyder,Feb 16 1972,OKC,BOS,B. Clemens,25
+670,Wes Unseld,Jan 26 1972,WAS,LAC,G. Johnson,0
+671,Dick Van Arsdale,Jan 11 1972,PHO,ATL,,
+672,Jimmy Walker,Jan 2 1972,DET,HOU,unassisted,16
+673,Walt Wesley,Dec 28 1971,CLE,POR,,
+674,John Havlicek,Dec 27 1971,BOS,GSW,D. Nelson,25
+675,Elvin Hayes,Dec 12 1971,HOU,OKC,D. Gibbs,15
+676,John Havlicek,Nov 5 1971,BOS,DET,J. White,40
+677,Bob Kauffman,Oct 29 1971,LAC,POR,unassisted,0
+678,Connie Hawkins,Oct 29 1971,PHO,GSW,P. Silas,28
+679,Don May,Oct 29 1971,ATL,CLE,B. Bridges,35
+680,Dave Sorenson,Jan 25 1971,CLE,BOS,J. Johnson,22
+681,George Wilson,Dec 15 1970,LAC,LAL,,30
+682,Walt Bellamy,Nov 13 1970,ATL,BOS,B. Bridges,0
+683,Happy Hairston,Jan 24 1970,LAL,OKC,J. Egan,0
+684,Willis Reed,Dec 25 1969,NYK,DET,W. Frazier,0
+685,Clem Haskins,Dec 6 1969,WAS,BOS,A. Tucker,40
+686,Hal Greer,Dec 5 1969,GSW,BOS,B. Cunningham,0
+687,Don Kojis,Nov 10 1969,SDR,GSW,,30
+688,Stan McKenzie,Nov 7 1969,PHO,LAL,unassisted,18
+689,Elvin Hayes,Apr 4 1969 p,SDR,ATL,,18
+690,Jim Washington,Mar 4 1969,WAS,GSW,unassisted,10
+691,Bob Rule,Feb 23 1969,OKC,BOS,L. Wilkens,35
+692,Zelmo Beaty,Dec 29 1968,ATL,WAS,unassisted,18
+693,Gus Johnson,Nov 23 1968,WAS,DET,unassisted,0
+694,Bailey Howell,Feb 7 1968,BOS,STL,L. Siegfried,0
+695,Cazzie Russell,Jan 31 1968,NYK,SAC,unassisted,12
+696,Bob Boozer,Dec 8 1967,WAS,OKC,unassisted,0
+697,Bud Olsen,Nov 19 1967,OKC,DET,unassisted,0
+698,Dick Snyder,Nov 11 1967,STL,GSW,unassisted,0
+699,Cazzie Russell,Oct 17 1967,NYK,GSW,,30
+700,Bob Boozer,Jan 20 1967,WAS,DET,,
+701,Richie Guerin,Jan 2 1967,STL,DET,unassisted,25
+702,Richie Guerin,Dec 15 1966,STL,BOS,unassisted,0
+703,Fred Hetzel,Dec 9 1966,GSW,LAL,N. Thurmond,15
+704,Bill Bridges,Dec 2 1966,STL,NYK,unassisted,14
+705,Jim King,Nov 26 1966,GSW,WAS,N. Thurmond,30
+706,Wilt Chamberlain,Dec 29 1965,GSW,DET,,
+707,Oscar Robertson,Dec 26 1965,SAC,STL,unassisted,6
+708,Guy Rodgers,Nov 12 1965,GSW,DET,,
+709,Jim Barnes,Mar 9 1965,NYK,GSW,unassisted,0
+710,Cliff Hagan,Mar 6 1965,STL,LAL,unassisted,0
+711,Jerry West,Mar 3 1965,LAL,BOS,W. Hazzard,20
+712,Bob Boozer,Jan 15 1965,NYK,GSW,unassisted,0
+713,Ray Scott,Nov 20 1964,DET,WAS,D. Butcher,20
+714,Bob Pettit,Nov 1 1964,STL,LAL,,
+715,Elgin Baylor,Mar 25 1964 p,LAL,STL,unassisted,22
+716,Wilt Chamberlain,Dec 28 1963,GSW,WAS,A. Attles,12
+717,Hal Greer,Nov 26 1963,GSW,WAS,unassisted,25
+718,Jerry West,Apr 2 1963 p,LAL,STL,unassisted,15
+719,Wilt Chamberlain,Feb 19 1963,GSW,LAL,G. Rodgers,12
+720,Cliff Hagan,Feb 13 1963,STL,NYK,,30
+721,Jerry West,Apr 10 1962 p,LAL,BOS,unassisted,0
+722,Ed Conlin,Nov 4 1961,PHW,DET,unassisted,0
+723,Dick Garmaker,Dec 13 1960,NYK,BOS,unassisted,0
+724,Gene Shue,Nov 15 1960,DET,BOS,,
+725,Ed Conlin,Oct 28 1960,PHW,LAL,G. Rodgers,30
+726,Tom Heinsohn,Mar 24 1960 p,BOS,PHW,unassisted,0
+727,Larry Costello,Feb 10 1960,PHI,MNL,unassisted,
+728,Paul Arizin,Dec 6 1959,PHW,DET,T. Gola,40
+729,Kenny Sears,Nov 29 1959,NYK,PHW,J. George,20
+730,Cliff Hagan,Mar 11 1959,STL,PHI,,
+731,Bill Sharman,Feb 11 1959,BOS,PHW,B. Cousy,10
+732,Ray Felix,Jan 31 1959,NYK,PHI,unassisted,
+733,Walter Dukes,Feb 16 1958,DET,STL,unassisted,0
+734,Neil Johnston,Jan 17 1958,PHW,NYK,unassisted,15
+735,Cliff Hagan,Apr 11 1957 p,STL,BOS,unassisted,0
+736,Dolph Schayes,Mar 9 1957,PHI,BOS,unassisted,17
+737,Bob Harrison,Feb 23 1957,PHI,MNL,,40
+738,Bill Sharman,Dec 22 1956,BOS,STL,B. Cousy,15
+739,Bob Harrison,Feb 20 1956,STL,FTW,,30
+740,Bob Cousy,Feb 9 1956,BOS,PHI,unassisted,
+741,Bob Pettit,Feb 8 1956,STL,BOS,unassisted,0
+742,Richie Regan,Dec 10 1955,ROC,FTW,,25
+743,Jim Tucker,Nov 5 1955,PHI,FTW,P. Seymour,
+744,Dick Farley,Feb 19 1955,PHI,NYK,P. Seymour,35
+745,Jim Baechtold,Feb 13 1955,NYK,BOS,unassisted,15
+746,Dolph Schayes,Jan 19 1955,PHI,PHW,,
+747,Vern Mikkelsen,Dec 8 1954,MNL,BOS,,
+748,Odie Spears,Dec 5 1954,ROC,FTW,,
+749,Cal Christensen,Oct 30 1954,ROC,BOS,,
+750,Irv Bemoras,Feb 23 1954,MLH,PHI,B. Tosheff,0
+751,Irv Bemoras,Feb 21 1954,MLH,FTW,,
+752,Carl Braun,Jan 22 1954,NYK,PHW,,
+753,Wally Osterkorn,Jan 16 1954,PHI,ROC,unassisted,10
+754,Carl Braun,Dec 19 1953,NYK,BLB,unassisted,
+755,Mel Payton,Mar 13 1953,INO,MLH,,
+756,Arnie Risen,Mar 8 1953,ROC,FTW,,15
+757,George Ratkovicz,Feb 11 1953,MLH,INO,,25
+758,Vince Boryla,Jan 27 1953,NYK,ROC,,40
+759,Andy Phillip,Dec 27 1952,FTW,NYK,,0
+760,Bill Sharman,Nov 23 1952,BOS,ROC,B. Brannum,17
+761,Don Barksdale,Nov 22 1952,BLB,PHW,unassisted,0
+762,Andy Phillip,Nov 1 1952,PHW,PHI,unassisted,45
+763,Arnie Johnson,Mar 13 1952,ROC,FTW,B. Davies,0
+764,Neil Johnston,Feb 26 1952,PHW,INO,W. Budko,0
+765,Jack Coleman,Feb 14 1952,ROC,PHI,unassisted,0
+766,Andy Phillip,Feb 1 1952,PHW,BLB,unassisted,0
+767,Vince Boryla,Dec 18 1951,NYK,MNL,C. Simmons,30
+768,Chuck Cooper,Feb 21 1951,BOS,NYK,S. Hertzberg,20
+769,Ralph Beard,Feb 13 1951,INO,FTW,B. Lavoy,45
+770,Arnie Johnson,Jan 10 1951,ROC,BLB,,
+771,Ralph Beard,Jan 6 1951,INO,ROC,P. Walther,0
+772,Dolph Schayes,Jan 6 1951,PHI,NYK,,10
+773,Jack Coleman,Nov 29 1950,ROC,WSC,unassisted,0
+774,Johnny Payak,Mar 19 1950,WAT,TRI,unassisted,8
+775,Carl Braun,Mar 8 1950,NYK,STB,E. Vandeweghe,35
+776,Andy Duncan,Feb 26 1950,ROC,STB,unassisted,0
+777,Charlie Black,Jan 18 1950,FTW,SHE,,
+778,Carl Braun,Jan 14 1950,NYK,BOS,E. Vandeweghe,
+779,Dick McGuire,Dec 10 1949,NYK,CHS,unassisted,0
+780,Herm Schaefer,Feb 26 1949,MNL,BLB,,
+781,Belus Smawley,Nov 25 1948,STB,PRO,,50
+782,John Logan,Feb 26 1948,STB,BOS,,45
+783,Bob Feerick,Jan 22 1947,WSC,PHW,,
+784,John Barr,Dec 10 1946,STB,CLR,A. Davis,45
