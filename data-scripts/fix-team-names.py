@@ -45,6 +45,7 @@ TEAM_TO_TEAM_ABBR = {
 
     'HOUSTON ROCKETS': 'HOU',
     'SAN DIEGO ROCKETS': 'HOU',
+    'SDO': 'HOU',
 
     'INDIANA PACERS': 'IND',
     'INO': 'IND',
@@ -102,6 +103,7 @@ TEAM_TO_TEAM_ABBR = {
     'CIN': 'SAC',
     'ROR': 'SAC',
     'ROC': 'SAC',
+    'KCO': 'SAC',
 
     'SAN ANTONIO SPURS': 'SAS',
 
@@ -134,7 +136,7 @@ TEAM_TO_TEAM_ABBR = {
 }
 
 
-with open('../data/full/buzzerbeater.csv', 'r', encoding="utf8") as in_file:
+with open('../data/full/team.csv', 'r', encoding="utf8") as in_file:
     with open('../temp.csv', 'a', newline='', encoding="utf8") as out_file:
         in_reader = csv.reader(in_file, delimiter=',')
         out_writer = csv.writer(out_file, delimiter=',')

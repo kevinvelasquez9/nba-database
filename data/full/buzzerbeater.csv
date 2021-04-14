@@ -642,7 +642,7 @@ gameID,playerName,date,winningTeam,opposingTeam,assistedPlayerName,distance
 640,Mike Newlin,Nov 29 1975,HOU,GSW,,20
 641,Fred Carter,Nov 25 1975,GSW,GSW,unassisted,25
 642,Jim Brewer,Mar 16 1975,CLE,UTA,unassisted,0
-643,Tiny Archibald,Mar 6 1975,KCO,LAC,R. Behagen,30
+643,Tiny Archibald,Mar 6 1975,SAC,LAC,R. Behagen,30
 644,Phil Chenier,Feb 6 1975,WAS,GSW,,
 645,John Gianelli,Jan 30 1975,NYK,ATL,W. Frazier,0
 646,Jon McGlocklin,Jan 27 1975,MIL,UTA,M. Davis,20
@@ -658,9 +658,9 @@ gameID,playerName,date,winningTeam,opposingTeam,assistedPlayerName,distance
 656,George Trapp,Feb 5 1974,DET,POR,,25
 657,Bob Weiss,Feb 5 1974,WAS,BOS,B. Love,20
 658,Rick Barry,Jan 31 1974,GSW,HOU,C. Johnson,28
-659,Jerry West,Jan 18 1974,LAL,KCO,C. Hawkins,21
+659,Jerry West,Jan 18 1974,LAL,SAC,C. Hawkins,21
 660,Jim Price,Dec 18 1973,LAL,MIL,B. Bridges,25
-661,Jimmy Walker,Dec 16 1973,KCO,DET,D. Kojis,12
+661,Jimmy Walker,Dec 16 1973,SAC,DET,D. Kojis,12
 662,Bob Love,Nov 24 1973,WAS,DET,N. Van Lier,22
 663,Howard Komives,Jan 18 1973,LAC,ATL,,
 664,Earl Monroe,Jan 12 1973,NYK,HOU,unassisted,10
@@ -726,23 +726,23 @@ gameID,playerName,date,winningTeam,opposingTeam,assistedPlayerName,distance
 724,Gene Shue,Nov 15 1960,DET,BOS,,
 725,Ed Conlin,Oct 28 1960,GSW,LAL,G. Rodgers,30
 726,Tom Heinsohn,Mar 24 1960 p,BOS,GSW,unassisted,0
-727,Larry Costello,Feb 10 1960,PHI,LAL,unassisted,
+727,Larry Costello,Feb 10 1960,GSW,LAL,unassisted,
 728,Paul Arizin,Dec 6 1959,GSW,DET,T. Gola,40
 729,Kenny Sears,Nov 29 1959,NYK,GSW,J. George,20
-730,Cliff Hagan,Mar 11 1959,ATL,PHI,,
+730,Cliff Hagan,Mar 11 1959,ATL,GSW,,
 731,Bill Sharman,Feb 11 1959,BOS,GSW,B. Cousy,10
-732,Ray Felix,Jan 31 1959,NYK,PHI,unassisted,
+732,Ray Felix,Jan 31 1959,NYK,GSW,unassisted,
 733,Walter Dukes,Feb 16 1958,DET,ATL,unassisted,0
 734,Neil Johnston,Jan 17 1958,GSW,NYK,unassisted,15
 735,Cliff Hagan,Apr 11 1957 p,ATL,BOS,unassisted,0
-736,Dolph Schayes,Mar 9 1957,PHI,BOS,unassisted,17
-737,Bob Harrison,Feb 23 1957,PHI,LAL,,40
+736,Dolph Schayes,Mar 9 1957,GSW,BOS,unassisted,17
+737,Bob Harrison,Feb 23 1957,GSW,LAL,,40
 738,Bill Sharman,Dec 22 1956,BOS,ATL,B. Cousy,15
 739,Bob Harrison,Feb 20 1956,ATL,DET,,30
-740,Bob Cousy,Feb 9 1956,BOS,PHI,unassisted,
+740,Bob Cousy,Feb 9 1956,BOS,GSW,unassisted,
 741,Bob Pettit,Feb 8 1956,ATL,BOS,unassisted,0
 742,Richie Regan,Dec 10 1955,SAC,DET,,25
-743,Jim Tucker,Nov 5 1955,PHI,DET,P. Seymour,
-744,Dick Farley,Feb 19 1955,PHI,NYK,P. Seymour,35
+743,Jim Tucker,Nov 5 1955,GSW,DET,P. Seymour,
+744,Dick Farley,Feb 19 1955,GSW,NYK,P. Seymour,35
 745,Jim Baechtold,Feb 13 1955,NYK,BOS,unassisted,15
-746,Dolph Schayes,Jan 19 1955,PHI,GSW,,
+746,Dolph Schayes,Jan 19 1955,GSW,GSW,,
