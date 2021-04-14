@@ -38,11 +38,14 @@ SELECT playerName, season, reboundsPerGame
 FROM R NATURAL JOIN Statistics;
 
 -- Question 7
-WITH I AS (SELECT *
-           FROM Injury
-           HAVING dateInjured LIKE '%/16')
+WITH T AS (SELECT *
+           FROM Team
+           WHERE championships = 0),
+     M AS (SELECT franchiseName, gamesPlayed
+           FROM T
+           WHERE gamesPlayed = (SELECT MAX(gamesPlayed) FROM T))
 SELECT *
-FROM I;
+FROM M;
 
 -- Question 8
 WITH I AS (SELECT DISTINCT playerName, dateInjured
@@ -102,3 +105,6 @@ WITH MVP AS (SELECT playerName, COUNT(playerName) AS 'numBuzzerbeaters'
                     WHERE numBuzzerbeaters = (SELECT MAX(numBuzzerbeaters) FROM MVP))
 SELECT playerName, opposingTeam
 FROM MostBuzzer NATURAL JOIN BuzzerBeater;
+
+-- Question 20
+
