@@ -65,7 +65,9 @@ CREATE TABLE BuzzerBeater (
   opposingTeam VARCHAR(255),
   assistedPlayerName VARCHAR(255),
   distance VARCHAR(255),
-  PRIMARY KEY(gameID)
+  PRIMARY KEY(gameID),
+  FOREIGN KEY(winningTeam) REFERENCES Team(franchiseName) ON DELETE CASCADE ON UPDATE CASCADE,
+  FOREIGN KEY(opposingTeam) REFERENCES Team(franchiseName) ON DELETE CASCADE ON UPDATE CASCADE
 );
 
 LOAD DATA LOCAL INFILE '/Users/kevinvelasquez/projects/nba-database/data/full/buzzerbeater.csv'
@@ -82,7 +84,8 @@ CREATE TABLE Award (
   mostPoints VARCHAR(255),
   mostRebounds VARCHAR(255),
   mostAssists VARCHAR(255),
-  PRIMARY KEY(season)
+  PRIMARY KEY(season),
+  FOREIGN KEY(champion) REFERENCES Team(franchiseName) ON DELETE CASCADE ON UPDATE CASCADE
 );
 
 LOAD DATA LOCAL INFILE '/Users/kevinvelasquez/projects/nba-database/data/full/award.csv'
