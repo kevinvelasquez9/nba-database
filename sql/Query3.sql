@@ -1,0 +1,13 @@
+-- Query3.sql
+
+DELIMITER //
+
+DROP PROCEDURE IF EXISTS Query3 //
+
+CREATE PROCEDURE Query3()
+BEGIN
+  SELECT DISTINCT A1.mvp
+  FROM Award AS A1 JOIN Award AS A2 ON A1.mvp = A2.rookieOfTheYear;
+END; //
+
+DELIMITER ;
