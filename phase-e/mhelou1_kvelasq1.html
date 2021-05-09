@@ -1,0 +1,79 @@
+<!-- nhelou1_kvelasq1.html -->
+
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
+		integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+	<link rel="stylesheet" href="style.css">
+	<title>NBA Database</title>
+</head>
+<html>
+
+<body>
+
+	<div class="wrapper">
+		<div class="header pad">
+			<h1> NBA Database </h1>
+			<img class="logo" src="https://theundefeated.com/wp-content/uploads/2017/06/nbalogo.jpg?w=1024"
+				alt="nba-logo">
+		</div>
+
+		<div class="pad">
+			<h3> By: Marc Helou & Kevin Velasquez </h3><br/>
+			<h4> Click the button below to see a list of query options! </h4>
+		</div>
+
+
+		<div class="dropdown pad">
+			<button class="btn btn-primary btn-lg dropdown-toggle" type="button" id="dropdownMenuButton"
+				data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+				Queries
+			</button>
+			<div class="dropdown-menu center" aria-labelledby="dropdownMenuButton">
+				<!-- Starting from the 2013 season, what is the average points scored per game for an MVP? Tell us the season, player name, and points per game. -->
+				<a class="dropdown-item" href="./php/q1.php">Average PPG by MVPs since 2013</a>
+				<!-- Is it more common for an MVP to be the top performer in rebounds, points, or assists? Tell us the number of players who were MVP with either most points, most rebounds, or most assists. -->
+				<a class="dropdown-item" href="./php/q2.php">MVP statistic titles</a>
+				<!-- How many MVPs were once a Rookie of the Year? List all MVPs that satisfy the requirement. -->
+				<a class="dropdown-item" href="./php/q3.php">All MVPs that were ROTY</a>
+				<!-- Calculate the average buzzer-beater distance from 2000 to 2009 and the average buzzer-beater distance from 2010-2019. Return the average distance from the 2000s and the average distance from the 2010s. -->
+				<a class="dropdown-item" href="./php/q4.php">Average buzzer beater distance from 2000s and 2010s</a>
+				<!-- List the winners of the rebounding title every year since it was recorded. What were their average rebounds per game? Tell us the player name, season, and rebounds per game. -->
+				<a class="dropdown-item" href="./php/q5.php">Average RPG of rebounding title winners</a>
+				<!-- List the team with the most games played throughout its history that is still yet to win an NBA Championship. Tell us the franchise namd and games played. -->
+				<a class="dropdown-item" href="./php/q6.php">Team with most games played with no championship</a>
+				<!-- Is there a correlation between injuries and minutes played per game? List all the players injured in 2019 along with the average minutes per game played by each injured player. -->
+				<a class="dropdown-item" href="./php/q7.php">MPG of all players injured in 2019</a>
+				<!-- Carrying the squad: list the players with an unassisted buzzer beater in 2017. How many assists per game did they have that year? List the player name and assists per game. -->
+				<a class="dropdown-item" href="./php/q8.php">APG of players with unassisted buzzer-beaters in 2017</a>
+				<!-- List every Rookie of The Year who has averaged at least 25 points per game, 5 rebounds per game, and 5 assists per game in a season (minimum 40 games played). -->
+				<a class="dropdown-item" href="./php/q9.php">ROTYs who have averaged 25, 5 and 5</a>
+				<!-- Which team had the most game-winning shots from 2010-2020? Did that team win any championships? List the franchise name and number of championships won. -->
+				<a class="dropdown-item" href="./php/q10.php">Did team with most buzzer-beaters from 2010-2020 win a championship?</a>
+				<!-- Overpaid: find the players with contracts worth more than $20 million in one season that did not score more than 10 points per game. Tell us the player name, season, PPG, and salary. -->
+				<a class="dropdown-item" href="./php/q11.php">Players with $20 million contracts w/o scoring more than 10 PPG</a>
+				<!-- List the first season a player earned $30 million or more in one year, then list the next time another player besides the first one got paid $30 million or more. Make sure to list both player’s names. Hint: being the GOAT gets you paid quite well... -->
+				<a class="dropdown-item" href="./php/q12.php">First and second time a unique player earned more than $30 million</a>
+				<!-- List the players who have averaged a triple-double in a season but did NOT win MVP that season. Hint: a triple double is when a player averages 10 or more points in 3 positive statistic categories. You may use PPG, APG, and RPG for this. Return the season, player name, PPG, APG, and RPG. -->
+				<a class="dropdown-item" href="./php/q13.php">Players who have average a triple-double w/o getting MVP</a>
+				<!-- Of all the MVPs, find who had the most buzzer-beaters. List the player and all the teams they had a buzzer-beater against. -->
+				<a class="dropdown-item" href="./php/q14.php">The MVP with the most buzzer-beaters</a>
+				<!-- Find the team with the most championship wins. List the amount of buzzer-beaters they have scored and how many buzzer-beaters have been scored against them. -->
+				<a class="dropdown-item" href="./php/q15.php">Buzzer-beaters for and against the team with the most championships</a>
+			</div>
+		</div>
+	</div>
+
+	<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"
+		integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
+		crossorigin="anonymous"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"
+		integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q"
+		crossorigin="anonymous"></script>
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"
+		integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
+		crossorigin="anonymous"></script>
+</body>
+
+</html>
